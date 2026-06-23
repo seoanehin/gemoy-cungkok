@@ -2,7 +2,7 @@
 
 <!DOCTYPE html>
 <html lang="id">
-    <head prefix="og: https://drummercafe.com/ fb: https://drummercafe.com/ product: https://drummercafe.com/">
+    <head prefix="og: https://drummercafe.com/search fb: https://drummercafe.com/search product: https://drummercafe.com/search">
         <script data-breeze="1">
     var LOCALE = 'id\u002DID';
     var BASE_URL = 'https\u003A\u002F\u002Fwww.mothercare.co.id\u002F';
@@ -44,7 +44,7 @@
 <link rel="alternate" hreflang="x-default" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
 <link rel="icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/mahongtoto/faviconmh.png">
 <link rel="shortcut icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/mahongtoto/faviconmh.png">
-<link rel="canonical" href="https://drummercafe.com/">
+<link rel="canonical" href="https://drummercafe.com/search">
 <!--KB6WK8EHVmVHTESzwSWVMjZ6KU8vWqCH-->
 <!--2a1s2GN9TUKbwHv3HvawyC8mbXQAIuWc-->
 <!--vi7727dwaRtKsPIHEXMsLQoewBm0jClQ-->
@@ -184,7 +184,7 @@ console.log(
 <meta property="og:title" content="MAHONGTOTO : Power Situs Togel Online Resmi dengan Akses Kilat & Bandar Toto Macau Terpercaya Bonus Terlengkap 2026">
 <meta property="og:image" content="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
 <meta property="og:description" content="MAHONGTOTO adalah situs togel online terpercaya yang menyediakan akses kilat, pasaran togel terlengkap, dan layanan Bandar Toto Macau resmi. Didukung sistem aman, result cepat, transaksi instan, dan bonus menarik untuk pengalaman bermain togel online yang nyaman dan terpercaya di tahun 2026.">
-<meta property="og:url" content="https://drummercafe.com/">
+<meta property="og:url" content="https://drummercafe.com/search">
     <meta property="product:price:amount" content="5000">
     <meta property="product:price:currency" content="IDR">
 <script type="text/javascript" id="klevu_initsessiondata">
@@ -604,17 +604,17 @@ margin-right:10px;
 }
 </style>
 </div></div></div><div class="header content"><span data-action="toggle-nav" class="action nav-toggle"><span>Toggle Nav</span></span>
-<a class="logo" href="https://drummercafe.com/" title="" aria-label="store logo">
+<a class="logo" href="https://drummercafe.com/search" title="" aria-label="store logo">
     <img src="https://ada-gambaran.pages.dev/mahongtoto/logomh.gif" title="" alt="" width="155" height="28">
 </a>
 
 <div class="kanmo-middle-header"><div class="navigation-wrapper"><span data-action="toggle-nav" class="button-close" tabindex="0"></span><div class="top-header-components-mc mobile-component">
   <div class="header_panel_info">
     <ul>
-      <li><a href="https://drummercafe.com/"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
-      <li><a href="https://drummercafe.com/"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
-      <li><a href="https://drummercafe.com/"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
-      <li><a href="https://drummercafe.com/" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
+      <li><a href="https://drummercafe.com/search"><span><img loading="lazy" width="22" height="22" alt="Kanmo Circle logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/KanmoCircle.svg"></span>about Kanmo Circle</a></li>
+      <li><a href="https://drummercafe.com/search"><img loading="lazy" width="22" height="22" alt="gift registry icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/gift_blue.svg">gift registry</a></li>
+      <li><a href="https://drummercafe.com/search"><span><img loading="lazy" width="22" height="22" alt="store finder icon" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/storefinder_blue.svg"></span>store finder</a></li>
+      <li><a href="https://drummercafe.com/search" target="_blank"><span><img loading="lazy" width="22" height="22" alt="Whatsapp logo" src="https://www.mothercare.co.id/static/version1741963345/frontend/Codilar/mothercare/id_ID/images/Whatsapp_Logo.svg"></span>contact us</a></li>
 
     </ul>
 
@@ -1874,7 +1874,7 @@ font-size:12px;
     </div>
     <!-- column 3-->
 </div>
-</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://drummercafe.com/" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #ff0000 !important;" class=" nav-anchor"><span>TOGEL TERPERCAYA 2026</span></a></li>		</ul>
+</div></div></div></div></li><li id="vesitem-8847317423080612096131144" class=" nav-item level0 submenu-left subhover  dropdown level-top "><a href="https://drummercafe.com/search" target="_self" data-hover-color="#fff !important" data-hover-bgcolor="#ff0000 !important" data-color="#fff !important" data-bgcolor="#ff0000 !important" style="color: #fff !important;background-color: #ff0000 !important;" class=" nav-anchor"><span>TOGEL TERPERCAYA 2026</span></a></li>		</ul>
 			</nav>
 		
 	</div>
@@ -1994,7 +1994,7 @@ font-size:12px;
     </script>
 
 <div class="actions dropdown options switcher-options no-chevron account-dropdown">
-    <a class="action toggle switcher-trigger" href="https://drummercafe.com/" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
+    <a class="action toggle switcher-trigger" href="https://drummercafe.com/search" title="Akun Saya" data-mage-init='{"dropdown":{"dialog":null}}' data-toggle="dropdown" data-trigger-keypress-button="true">
         
         <span class="abs-visually-hidden">Akun Saya</span>
     </a>
@@ -2018,12 +2018,12 @@ font-size:12px;
 
 
     <li>
-        <a href="https://drummercafe.com/">
+        <a href="https://drummercafe.com/search">
             buat akun        </a>
     </li>
 <li>
 
-    <a href="https://drummercafe.com/">
+    <a href="https://drummercafe.com/search">
         <span>Bantuan</span>
     </a>
 </li>
@@ -2031,7 +2031,7 @@ font-size:12px;
     </div>
 
 <div class="actions dropdown options switcher-options no-chevron no-chevron wishlist-dropdown dropdown-lg">
-    <a class="action toggle switcher-trigger" href="https://drummercafe.com/" title="Daftar Keinginan">
+    <a class="action toggle switcher-trigger" href="https://drummercafe.com/search" title="Daftar Keinginan">
         
         <span class="abs-visually-hidden">Daftar Keinginan</span>
     </a>
@@ -2039,7 +2039,7 @@ font-size:12px;
     </div>
 
 <div data-block="minicart" class="minicart-wrapper">
-    <a class="action showcart" href="https://drummercafe.com/" data-bind="scope: 'minicart_content'">
+    <a class="action showcart" href="https://drummercafe.com/search" data-bind="scope: 'minicart_content'">
         <span class="text empty" data-bind="
             css: {
                 empty: !!getCartParam('summary_count') == false
@@ -2199,7 +2199,7 @@ font-size:12px;
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MAHONGTOTO ",
-  "url": "https://drummercafe.com/",
+  "url": "https://drummercafe.com/search",
   "logo": "https://ada-gambaran.pages.dev/mahongtoto/logomh.gif",
   "description": "MAHONGTOTO adalah situs togel online terpercaya yang menyediakan akses kilat, pasaran togel terlengkap, dan layanan Bandar Toto Macau resmi. Didukung sistem aman, result cepat, transaksi instan, dan bonus menarik untuk pengalaman bermain togel online yang nyaman dan terpercaya di tahun 2026.",
   "foundingDate": "2024",
@@ -2274,19 +2274,19 @@ font-size:12px;
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO ",
-      "item": "https://drummercafe.com/"
+      "item": "https://drummercafe.com/search"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LOGIN MAHONGTOTO",
-      "item": "https://drummercafe.com/"
+      "item": "https://drummercafe.com/search"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "DAFTAR MAHONGTOTO",
-      "item": "https://drummercafe.com/"
+      "item": "https://drummercafe.com/search"
     }
   ]
 }
@@ -2304,7 +2304,7 @@ font-size:12px;
    </a>
 </div>
                         <div class="kredivo-label">
-                <div>Use Installment Options from<a href="https://drummercafe.com/" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://ada-gambaran.pages.dev/mahongtoto/logomh.gif"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>Laarn more</a></div>            </div>
+                <div>Use Installment Options from<a href="https://drummercafe.com/search" title="DMCA.com Protection Status" class="dmca-badge"> <img src ="https://ada-gambaran.pages.dev/mahongtoto/logomh.gif"  alt="DMCA.com Protection Status" /></a>  <script src="https://images.dmca.com/Badges/DMCABadgeHelper.min.js"> </script>Laarn more</a></div>            </div>
             <div class="available-block">
     <div class="title">
         <span class="avail-text">Available for :</span>
@@ -2320,15 +2320,15 @@ font-size:12px;
 </div>
 
 <div class="product attribute overview">
-        <div class="value" style="text-align: justify;"><p data-start="0"><a href="https://drummercafe.com/">MAHONGTOTO</a> hadir sebagai situs togel online terpercaya yang menyediakan akses cepat, sistem keamanan modern, dan pilihan pasaran terlengkap bagi para pengguna di Indonesia. Dengan dukungan layanan profesional selama 24 jam, MAHONGTOTO menghadirkan pengalaman bermain yang nyaman melalui proses transaksi yang praktis, result yang diperbarui secara berkala, serta tampilan platform yang mudah digunakan di berbagai perangkat.</p>
+        <div class="value" style="text-align: justify;"><p data-start="0"><a href="https://drummercafe.com/search">MAHONGTOTO</a> hadir sebagai situs togel online terpercaya yang menyediakan akses cepat, sistem keamanan modern, dan pilihan pasaran terlengkap bagi para pengguna di Indonesia. Dengan dukungan layanan profesional selama 24 jam, MAHONGTOTO menghadirkan pengalaman bermain yang nyaman melalui proses transaksi yang praktis, result yang diperbarui secara berkala, serta tampilan platform yang mudah digunakan di berbagai perangkat.</p>
           
-            <p>Sebagai platform Bandar Toto Macau resmi, <a href="https://drummercafe.com/">MAHONGTOTO</a> mengutamakan kualitas layanan dan kemudahan akses bagi para penggunanya. Didukung teknologi yang stabil dan fitur lengkap, MAHONGTOTO menjadi salah satu pilihan platform togel online yang banyak dicari karena menawarkan informasi pasaran yang lengkap, akses kilat, dan pengalaman digital yang aman, praktis, serta responsif sepanjang tahun 2026.</p>
+            <p>Sebagai platform Bandar Toto Macau resmi, <a href="https://drummercafe.com/search">MAHONGTOTO</a> mengutamakan kualitas layanan dan kemudahan akses bagi para penggunanya. Didukung teknologi yang stabil dan fitur lengkap, MAHONGTOTO menjadi salah satu pilihan platform togel online yang banyak dicari karena menawarkan informasi pasaran yang lengkap, akses kilat, dan pengalaman digital yang aman, praktis, serta responsif sepanjang tahun 2026.</p>
           
     </div>
 </div>
 </div><div class="product-config">
 <div class="product-add-form">
-    <form data-product-sku="52135545-AYO01" action="https://drummercafe.com/" method="post" id="product_addtocart_form">
+    <form data-product-sku="52135545-AYO01" action="https://drummercafe.com/search" method="post" id="product_addtocart_form">
         <input type="hidden" name="product" value="600193">
         <input type="hidden" name="selected_configurable_option" value="">
         <input type="hidden" name="related_product" id="related-products-field" value="">
@@ -2526,31 +2526,31 @@ a.sizechart-link{
             <img alt="" class="main-image" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png" width="608" height="608">
         </div>
 
-                    <a href="https://drummercafe.com/" class="prev" tabindex="-1">
+                    <a href="https://drummercafe.com/search" class="prev" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 19l-7-7 7-7"></path>
                 </svg>
             </a>
-            <a href="https://drummercafe.com/" class="next" tabindex="-1">
+            <a href="https://drummercafe.com/search" class="next" tabindex="-1">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5l7 7-7 7"></path>
                 </svg>
             </a>
         
         <div class="controls">
-            <a href="https://drummercafe.com/" class="zoom zoom-in">
+            <a href="https://drummercafe.com/search" class="zoom zoom-in">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M12 4v16m8-8H4"></path>
                 </svg>
             </a>
-            <a href="https://drummercafe.com/" class="zoom zoom-out">
+            <a href="https://drummercafe.com/search" class="zoom zoom-out">
                 <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor" stroke-width="2">
                   <path stroke-linecap="round" stroke-linejoin="round" d="M20 12H4"></path>
                 </svg>
             </a>
         </div>
 
-        <a href="https://drummercafe.com/" class="close">
+        <a href="https://drummercafe.com/search" class="close">
             <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewbox="0 0 24 24" stroke="currentColor">
               <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M6 18L18 6M6 6l12 12"></path>
             </svg>
@@ -2558,47 +2558,47 @@ a.sizechart-link{
     </div>
     
     <div class="thumbnails ">
-                                                    <a class="item active" href="https://drummercafe.com/" title="View Image">
+                                                    <a class="item active" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
                 </a>
-                                            <a class="item" href="https://drummercafe.com/" title="View Image">
+                                            <a class="item" href="https://drummercafe.com/search" title="View Image">
                     <span class="slide-image-container">
                         <img loading="lazy" alt="" src="https://ada-gambaran.pages.dev/mahongtoto/bannermh1.png">
                     </span>    
@@ -5320,13 +5320,13 @@ require(['jquery','Magento_Customer/js/customer-data'],
         });
     });
 </script><style>#html-body [data-pb-style=DK3T6M7],#html-body [data-pb-style=EXLLNWK]{background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll}#html-body [data-pb-style=EXLLNWK]{justify-content:flex-start;display:flex;flex-direction:column}#html-body [data-pb-style=DK3T6M7]{align-self:stretch}#html-body [data-pb-style=OAID5MY]{display:flex;width:100%}#html-body [data-pb-style=CEU4VQX],#html-body [data-pb-style=IQTQM3Q],#html-body [data-pb-style=PO3J8MC],#html-body [data-pb-style=WG4K5JH]{justify-content:flex-start;display:flex;flex-direction:column;background-position:left top;background-size:cover;background-repeat:no-repeat;background-attachment:scroll;width:25%;align-self:stretch}#html-body [data-pb-style=R8KNU7R]{text-align:left}</style><div data-content-type="row" data-appearance="contained" data-element="main"><div class="footer-content-mckanmo-desktop" data-enable-parallax="0" data-parallax-speed="0.5" data-background-images="{}" data-background-type="image" data-video-loop="true" data-video-play-only-visible="true" data-video-lazy-load="true" data-video-fallback-src="" data-element="inner" data-pb-style="EXLLNWK"><div class="pagebuilder-column-group footer-main-column-mc" data-background-images="{}" data-content-type="column-group" data-appearance="default" data-grid-size="12" data-element="main" data-pb-style="DK3T6M7"><div class="pagebuilder-column-line" data-content-type="column-line" data-element="main" data-pb-style="OAID5MY"><div class="pagebuilder-column shop-with-us-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="CEU4VQX"><h4 class="heading-shop-with-us-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">SEPUTAR MAHONGTOTO </h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">MAHONGTOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">MAHONG TOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">LOGIN MAHONGTOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">DAFTAR MAHONGTOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">ALTERNATIF MAHONGTOTO</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">TOTO MACAU</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">TOGEL ONLINE</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="//www.aeropuertoatacama.cl/estacionamiento.html">TOGEL TERPERCAYA 2026</a></p>
-</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">HUBUNGI MAHONGTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://drummercafe.com/">Hubungi Kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://drummercafe.com/">Bantuan Dan Faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
+</div></div><div class="pagebuilder-column need-help-column-mc" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="PO3J8MC"><h4 class="heading-need-help-kanmo-mc" data-content-type="heading" data-appearance="default" data-element="main">HUBUNGI MAHONGTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://drummercafe.com/search">Hubungi Kami</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="https://drummercafe.com/search">Bantuan Dan Faq</a></p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><p><a href="tel:+6221123456789">021-123456789</a></p>
 <p>24 Hours</p></div><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-desktop">
 <p>Ikuti Kami Di Media Sosial</p>
 <div style="display:flex;column-gap:20px">
-    <a class="item" href="https://drummercafe.com/"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
-    <a class="item" href="https://drummercafe.com/"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
-    <a class="item" href="https://drummercafe.com/"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
+    <a class="item" href="https://drummercafe.com/search"><img width="10" height="19" alt="facebook icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png"></a>
+    <a class="item" href="https://drummercafe.com/search"><img width="24" height="25" alt="instagram icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png"></a>
+    <a class="item" href="https://drummercafe.com/search"> <img width="24" height="25" alt="youtube icon" src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png"></a>
 </div>
 </div>
 <style>
@@ -5350,14 +5350,14 @@ require(['jquery','Magento_Customer/js/customer-data'],
 </style></div><div class="footer-google-play-img" data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-mobile" style="text-align:center;margin-top:15px;">
 <p>ikuti kami di media sosial</p>
 <div style="display:flex;column-gap:20px;justify-content: center;">
-    <a class="item" href="https://drummercafe.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
-    <a class="item" href="https://drummercafe.com/"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
-    <a class="item" href="https://drummercafe.com/"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
+    <a class="item" href="https://drummercafe.com/search"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/Vector_1_.png" alt="facebook icon"></a>
+    <a class="item" href="https://drummercafe.com/search"><img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_instagram-alt.png" alt="instagram icon"></a>
+    <a class="item" href="https://drummercafe.com/search"> <img src="https://www.mothercare.co.id/media/wysiwyg/mothercare/upgrade_245_bxl_youtube.png" alt="youtube icon"></a>
 </div>
 </div>
 </div></div><div class="pagebuilder-column accept-pay" data-content-type="column" data-appearance="full-height" data-background-images="{}" data-element="main" data-pb-style="WG4K5JH"><h4 data-content-type="heading" data-appearance="default" data-element="main" data-pb-style="R8KNU7R">ACCEPT MAHONGTOTO</h4><div data-content-type="html" data-appearance="default" data-element="main" data-decoded="true"><div class="footer-promo"> 
 <span><img loading="lazy" width="359" height="90" src="https://www.mothercare.co.id/media/wysiwyg/footer_payment_method.png" alt="mothercare payment method"></span> 
-<span><a target="_blank" href="https://drummercafe.com/"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://ada-gambaran.pages.dev/mahongtoto/logomh.gif" alt="iso logo"></a></span>
+<span><a target="_blank" href="https://drummercafe.com/search"><img loading="lazy" width="117" height="60" style="max-height: 60px;margin:0 auto 15px;" src="https://ada-gambaran.pages.dev/mahongtoto/logomh.gif" alt="iso logo"></a></span>
 </div>
 <div>
 <span>Direktorat Jenderal Perlindungan Konsumen dan Tertib Niaga <br>
@@ -5427,7 +5427,7 @@ margin:0 26px 35px;
 		let dataMinicart = $('#giftreg-message-minicart');
 		let datapdp = $('#giftreg-message-pdp');
 
-		let formUrl = 'https://drummercafe.com/';
+		let formUrl = 'https://drummercafe.com/search';
 
 		// $('.action.showcart').click(function(){
 		// 	setTimeout(function(){
@@ -5804,7 +5804,7 @@ margin:0 26px 35px;
                         "component": "Magento_MultipleWishlist/js/view/multiple-wishlist",
                         "config": {
                             "multipleWishlistOptions": {
-                                "createUrl": "https://drummercafe.com/",
+                                "createUrl": "https://drummercafe.com/search",
                                 "wishlistLink": ".action.towishlist"
                             }
                         }
