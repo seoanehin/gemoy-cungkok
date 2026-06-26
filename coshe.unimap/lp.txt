@@ -38,12 +38,12 @@
         <link rel="preload" href="https://public-assets.envato-static.com/assets/generated_sprites/common-5af54247f3a645893af51456ee4c483f6530608e9c15ca4a8ac5a6e994d9a340.png" as="image">
         <title>LANDAKTOTO - Link Alternatif Login Situs Toto Macau dengan Pasaran Togel Online Lengkap 2026</title>
         <meta name="description" content="LANDAKTOTO merupakan link alternatif login Situs Toto Macau terpercaya 2026 dengan akses cepat, server stabil, pasaran togel online terlengkap, proses transaksi aman, dan layanan profesional selama 24 jam. Nikmati pengalaman bermain yang nyaman dan mudah diakses kapan saja.">
-        <link rel="amphtml" href="https://gemoy-cungkok.pages.dev/amp" />
-        <link rel="alternate" hreflang="id-id" href="https://gemoy-cungkok.pages.dev/amp"/>
-        <link rel="alternate" href="https://gemoy-cungkok.pages.dev/amp"/>
-        <link rel="alternate" hreflang="id" href="https://gemoy-cungkok.pages.dev/amp"/>
-        <link rel="alternate" hreflang="en" href="https://gemoy-cungkok.pages.dev/amp"/>
-        <link rel="alternate" hreflang="x-default" href="https://gemoy-cungkok.pages.dev/amp"/>
+        <link rel="amphtml" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" />
+        <link rel="alternate" hreflang="id-id" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
+        <link rel="alternate" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
+        <link rel="alternate" hreflang="id" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
+        <link rel="alternate" hreflang="en" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
+        <link rel="alternate" hreflang="x-default" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp"/>
         <meta name="viewport" content="width=device-width,initial-scale=1">
         <link rel="icon" type="image/x-icon" href="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png">
         <link rel="apple-touch-icon-precomposed" type="image/x-icon" href="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png" sizes="72x72">
@@ -1476,11 +1476,11 @@
                             <i class="e-icon -icon-cart"></i>
                         </div>
                     </a>
-                    <a class="off-canvas-right__link" href="https://gemoy-cungkok.pages.dev/amp">
+                    <a class="off-canvas-right__link" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp">
                         Create an Envato Account
                         <i class="e-icon -icon-envato"></i>
                     </a>
-                    <a class="off-canvas-right__link" href="https://gemoy-cungkok.pages.dev/amp">
+                    <a class="off-canvas-right__link" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp">
                         Sign In
                         <i class="e-icon -icon-login"></i>
                     </a>
@@ -1561,7 +1561,7 @@
 
 
                                                 <li data-view="globalHeaderMenuDropdownHandler" class="global-header-menu__list-item--with-dropdown">
-                                                    <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://gemoy-cungkok.pages.dev/amp">
+                                                    <a data-lazy-load-trigger="mouseover" class="global-header-menu__link" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp">
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                             <title>Menu</title>
                                                             <path
@@ -1589,7 +1589,7 @@
                                                     </li>
 
                                                     <li class="global-header-menu__list-item -background-light -border-radius">
-                                                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://gemoy-cungkok.pages.dev/amp">
+                                                        <a class="global-header-menu__link h-pl1" data-view="modalAjax" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp">
                                                             <span id="spec-user-username" class="global-header-menu__link-text">
                                                             MASUK
                                                         </span>
@@ -1696,7 +1696,7 @@
                                         </div>
 
                                         <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
-                                            <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://gemoy-cungkok.pages.dev/amp">
+                                            <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow" title="Add to Cart" data-view="modalAjax" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp">
                                                 <span class="item-header__cart-button-icon">
                                                     <img src="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png" alt="LANDAKTOTO" width="24" height="24" style="margin-right: 8px;">
                                                 </span>
@@ -2014,10 +2014,10 @@
                                     </span>
     </div>
                     <div class="button-login-daftar">
-                        <a class="login" href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noreferrer" style="color: rgb(255, 255, 255);">
+                        <a class="login" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noreferrer" style="color: rgb(255, 255, 255);">
                             LOGIN
                         </a>
-                        <a class="register" href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noreferrer" style="color: rgb(255, 255, 255);">
+                        <a class="register" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noreferrer" style="color: rgb(255, 255, 255);">
                             DAFTAR
                         </a>
                                 </li>
@@ -2031,7 +2031,7 @@
 
 
 
-                                <a target="_blank" href="https://gemoy-cungkok.pages.dev/amp" rel="noopener noreferrer"><img src="https://ada-gambaran.pages.dev/landaktoto/bannerlnd1.png" alt="LANDAKTOTO - Link Alternatif Login Situs Toto Macau dengan Pasaran Togel Online Lengkap 2026" width="575" height="575" srcset="https://ada-gambaran.pages.dev/landaktoto/bannerlnd1.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
+                                <a target="_blank" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="noopener noreferrer"><img src="https://ada-gambaran.pages.dev/landaktoto/bannerlnd1.png" alt="LANDAKTOTO - Link Alternatif Login Situs Toto Macau dengan Pasaran Togel Online Lengkap 2026" width="575" height="575" srcset="https://ada-gambaran.pages.dev/landaktoto/bannerlnd1.png 1x" sizes="(min-width: 1024px) 590px, (min-width: 1px) 100vw, 600px"></a>
                                     <div class="js- item-preview-image__gallery" data-title="LANDAKTOTO - Link Alternatif Login Situs Toto Macau dengan Pasaran Togel Online Lengkap 2026 - WooCommerce eCommerce Screenshots Gallery" data-url="marketica-marketplace-wordpress-theme/screenshots/modal/8988002" bis_skin_checked="1">
                                     <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg">MARKETICA_PREVIEW/00-marketica-preview-sale37.jpg</a>
                                     <a class="is-hidden" href="https://s3.envato.com/files/344043819/MARKETICA_PREVIEW/01_marketica2_homepage.png">MARKETICA_PREVIEW/01_marketica2_homepage.png</a>
@@ -2067,10 +2067,10 @@
                                 <div class="item-preview__actions" bis_skin_checked="1">
                                     <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                        <a href="https://gemoy-cungkok.pages.dev/amp" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
+                                        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" role="button" class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN
                                                         </a>
 
-                                        <a data-view="screenshotGallery" href="https://gemoy-cungkok.pages.dev/amp" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
+                                        <a data-view="screenshotGallery" href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" role="button" class="btn-icon screenshots" target="_blank" rel="noopener">
                                                             DAFTAR
                                                         </a>
 
@@ -2234,7 +2234,7 @@
                                                 </p>
                                             </div>
                                 <p>
-                                <a href="https://gemoy-cungkok.pages.dev/amp" target="_blank">
+                                <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" target="_blank">
                                 <img style="display:block;margin-left:auto;margin-right:auto;" src="https://ada-gambaran.pages.dev/landaktoto/logolnd.gif" width="150" height="100"/>
                                 </a>
                             </p>
@@ -3509,19 +3509,19 @@ z-index: -1;
             }
     </style>
     <div class="WTG88-fixed-footer">
-        <a href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noopener" target="_blank">
+        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px" src="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png" alt="BONUS LANDAKTOTO">
             Bonus
         </a>
-        <a href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noopener" target="_blank">
+        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noopener" target="_blank">
             <img layout="intrinsic" height="20px" width="20px" src="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png" alt="LOGIN LANDAKTOTO">
             Login
         </a>
-        <a href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noopener" target="_blank" class="tada">
+        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noopener" target="_blank" class="tada">
             <img layout="intrinsic" height="20px" width="20px" src="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png" alt="DAFTAR LANDAKTOTO">
             Daftar
         </a>
-        <a href="https://gemoy-cungkok.pages.dev/amp" rel="nofollow noopener" target="_blank"
+        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" rel="nofollow noopener" target="_blank"
             class="js_live_chat_link live-chat-link">
             <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px" src="https://ada-gambaran.pages.dev/landaktoto/faviconlnd.png"
                 alt="LIVE CHAT LANDAKTOTO">
@@ -3537,7 +3537,7 @@ z-index: -1;
              alt="Landaktoto Banner"
              class="popup-banner">
 
-        <a href="https://gemoy-cungkok.pages.dev/amp" class="popup-btn">
+        <a href="https://gemoy-cungkok.pages.dev/drummercafe.com/amp" class="popup-btn">
             Kunjungi Landaktoto
         </a>
     </div>
