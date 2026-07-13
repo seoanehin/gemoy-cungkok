@@ -19,9 +19,9 @@
 <meta name="google-site-verification" content="dCOVC856K--tn0bGtzzWLE2y-pnQTsxOPaqzWkcfYTs" />
 <meta name="robots" content="index, follow">
 <link rel="canonical" href="https://www.maim.gov.my/index.php/ms/">
-<link rel="amphtml" href="https://elektroda.landakledak.app/">
-<link rel="alternate" hreflang="id-id" href="https://elektroda.landakledak.app/" />
-<link rel="alternate" hreflang="id" href="https://elektroda.landakledak.app/" />
+<link rel="amphtml" href="https://maim.landakledak.app/">
+<link rel="alternate" hreflang="id-id" href="https://maim.landakledak.app/" />
+<link rel="alternate" hreflang="id" href="https://maim.landakledak.app/" />
 <meta name="publisher" content="LANDAKTOTO">
 <meta name="description" content="LANDAKTOTO menghadirkan akses mudah ke slot gacor resmi dengan server yang stabil dan performa cepat. Nikmati pengalaman bermain yang nyaman, responsif, serta didukung layanan profesional untuk memberikan hiburan online yang lebih maksimal setiap hari.">
 <meta name="keywords" content="LANDAKTOTO, landaktoto, landaktoto resmi, landaktoto slot, situs landaktoto, landaktoto gacor" />
@@ -4090,8 +4090,8 @@ digitalData.page.pageInfo.pageName = pageName;
         <!-- CTA Buttons - Gold Version (tanpa animasi slot) -->
         <div class="cta-gold-section">
             <div class="cta-buttons-gold">
-                <a href="https://elektroda.landakledak.app/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
-                <a href="https://elektroda.landakledak.app/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
+                <a href="https://maim.landakledak.app/" rel="nofollow noreferrer" class="btn-gold btn-login-gold" title="Masuk akun">LOGIN</a>
+                <a href="https://maim.landakledak.app/" rel="nofollow noreferrer" class="btn-gold btn-register-gold" title="Daftar sekarang">DAFTAR</a>
             </div>
         </div>
     </div>
@@ -6728,17 +6728,17 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.landakledak.app/">
+                  <a class="footer-category__link" href="https://maim.landakledak.app/">
                     Login Member
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.landakledak.app/">
+                  <a class="footer-category__link" href="https://maim.landakledak.app/">
                     Daftar Akun Baru
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.landakledak.app/">
+                  <a class="footer-category__link" href="https://maim.landakledak.app/">
                     Lupa Password
                   </a>
                 </li>
@@ -10607,8 +10607,8 @@ function startGenerator() {
         <div class="slot">
             <img src="https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png" alt="Popup Banner" class="popup-image" />
             <div class="olx-btn-LANDAKTOTO" style="font-size: 20px;">
-                <a href="https://elektroda.landakledak.app/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
-                <a href="https://elektroda.landakledak.app/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
+                <a href="https://maim.landakledak.app/" target="_blank" rel="nofollow noreferrer" class="login">LOGIN</a>
+                <a href="https://maim.landakledak.app/" target="_blank" rel="nofollow noreferrer" class="register">DAFTAR</a>
             </div>
             <div class="popup-footer">
                 Bersama LANDAKTOTO | Terbang Tinggi dengan Slot Gacor Resmi Mudah Akses<br/>
