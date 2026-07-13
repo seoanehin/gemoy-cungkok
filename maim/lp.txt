@@ -9,7 +9,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="https://elektroda.uho.ac.id/index.php/journal" rel="preconnect"/>
+<link href="https://www.maim.gov.my/index.php/ms/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -18,7 +18,7 @@
 <meta name="title" content="Bersama LANDAKTOTO | Terbang Tinggi dengan Slot Gacor Resmi Mudah Akses">
 <meta name="google-site-verification" content="dCOVC856K--tn0bGtzzWLE2y-pnQTsxOPaqzWkcfYTs" />
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="https://elektroda.uho.ac.id/index.php/journal">
+<link rel="canonical" href="https://www.maim.gov.my/index.php/ms/">
 <link rel="amphtml" href="https://elektroda.landakledak.app/">
 <link rel="alternate" hreflang="id-id" href="https://elektroda.landakledak.app/" />
 <link rel="alternate" hreflang="id" href="https://elektroda.landakledak.app/" />
@@ -28,12 +28,12 @@
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Bersama LANDAKTOTO | Terbang Tinggi dengan Slot Gacor Resmi Mudah Akses">
-<meta name="twitter:url" content="https://elektroda.uho.ac.id/index.php/journal">
+<meta name="twitter:url" content="https://www.maim.gov.my/index.php/ms/">
 <meta name="twitter:image" content="https://ada-gambaran.pages.dev/landaktoto/logolnd.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="LANDAKTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="https://elektroda.uho.ac.id/index.php/journal">
+<meta property="og:url" content="https://www.maim.gov.my/index.php/ms/">
 <meta property="og:title" content="Bersama LANDAKTOTO | Terbang Tinggi dengan Slot Gacor Resmi Mudah Akses">
 <meta property="og:description" content="LANDAKTOTO menghadirkan akses mudah ke slot gacor resmi dengan server yang stabil dan performa cepat. Nikmati pengalaman bermain yang nyaman, responsif, serta didukung layanan profesional untuk memberikan hiburan online yang lebih maksimal setiap hari.">
 <meta property="og:image" content="https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png">
@@ -699,9 +699,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "https://elektroda.uho.ac.id/index.php/journal#organization",
+        "@id": "https://www.maim.gov.my/index.php/ms/#organization",
         "name": "S7",
-        "url": "https://elektroda.uho.ac.id/index.php/journal",
+        "url": "https://www.maim.gov.my/index.php/ms/",
         "logo": "https://ada-gambaran.pages.dev/landaktoto/logolnd.gif",
         "sameAs": [
           "https://facebook.com/LANDAKTOTO",
@@ -727,32 +727,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "https://elektroda.uho.ac.id/index.php/journal#breadcrumb",
+        "@id": "https://www.maim.gov.my/index.php/ms/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "LANDAKTOTO",
-            "item": "https://elektroda.uho.ac.id/index.php/journal-LANDAKTOTO"
+            "item": "https://www.maim.gov.my/index.php/ms/-LANDAKTOTO"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "LANDAKTOTO Resmi",
-            "item": "https://elektroda.uho.ac.id/index.php/journal - LANDAKTOTO Resmi"
+            "item": "https://www.maim.gov.my/index.php/ms/ - LANDAKTOTO Resmi"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "BERSAMA LANDAKTOTO",
-            "item": "https://elektroda.uho.ac.id/index.php/journal - BERSAMA LANDAKTOTO"
+            "item": "https://www.maim.gov.my/index.php/ms/ - BERSAMA LANDAKTOTO"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "https://elektroda.uho.ac.id/index.php/journaldemo#product",
+        "@id": "https://www.maim.gov.my/index.php/ms/demo#product",
         "name": "S7",
         "image": [
           "https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png"
@@ -764,7 +764,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "LANDAKTOTO-Slot",
         "category": "LANDAKTOTO Gacor",
-        "url": "https://elektroda.uho.ac.id/index.php/journal",
+        "url": "https://www.maim.gov.my/index.php/ms/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -808,7 +808,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "https://elektroda.uho.ac.id/index.php/journal",
+          "url": "https://www.maim.gov.my/index.php/ms/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -817,7 +817,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "https://elektroda.uho.ac.id/index.php/journal#merchant-listing",
+        "@id": "https://www.maim.gov.my/index.php/ms/#merchant-listing",
         "name": "Kenapa Harus Bergabung Sekarang?",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -826,9 +826,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "https://elektroda.uho.ac.id/index.php/journal/demo-LANDAKTOTO#product",
+              "@id": "https://www.maim.gov.my/index.php/ms//demo-LANDAKTOTO#product",
               "name": "LANDAKTOTO",
-              "url": "https://elektroda.uho.ac.id/index.php/journal/demo-LANDAKTOTO",
+              "url": "https://www.maim.gov.my/index.php/ms//demo-LANDAKTOTO",
               "image": "https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png",
               "description": "LANDAKTOTO menghadirkan akses mudah ke slot gacor resmi dengan server yang stabil dan performa cepat. Nikmati pengalaman bermain yang nyaman, responsif, serta didukung layanan profesional untuk memberikan hiburan online yang lebih maksimal setiap hari.",
               "brand": {
@@ -843,7 +843,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://elektroda.uho.ac.id/index.php/journal/LANDAKTOTO-slot",
+                "url": "https://www.maim.gov.my/index.php/ms//LANDAKTOTO-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -855,9 +855,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "https://elektroda.uho.ac.id/index.php/journal/#product",
+              "@id": "https://www.maim.gov.my/index.php/ms//#product",
               "name": "Jitu",
-              "url": "https://elektroda.uho.ac.id/index.php/journal",
+              "url": "https://www.maim.gov.my/index.php/ms/",
               "image": "https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png",
               "description": "LANDAKTOTO menghadirkan akses mudah ke slot gacor resmi dengan server yang stabil dan performa cepat. Nikmati pengalaman bermain yang nyaman, responsif, serta didukung layanan profesional untuk memberikan hiburan online yang lebih maksimal setiap hari.",
               "brand": {
@@ -872,7 +872,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://elektroda.uho.ac.id/index.php/journal",
+                "url": "https://www.maim.gov.my/index.php/ms/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -884,9 +884,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "https://elektroda.uho.ac.id/index.php/journal/LANDAKTOTO-resmi#product",
+              "@id": "https://www.maim.gov.my/index.php/ms//LANDAKTOTO-resmi#product",
               "name": "LANDAKTOTO",
-              "url": "https://elektroda.uho.ac.id/index.php/journal/LANDAKTOTO-resmi",
+              "url": "https://www.maim.gov.my/index.php/ms//LANDAKTOTO-resmi",
               "image": "https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png",
               "description": "LANDAKTOTO menghadirkan akses mudah ke slot gacor resmi dengan server yang stabil dan performa cepat. Nikmati pengalaman bermain yang nyaman, responsif, serta didukung layanan profesional untuk memberikan hiburan online yang lebih maksimal setiap hari.",
               "brand": {
@@ -901,7 +901,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "https://elektroda.uho.ac.id/index.php/journal/LANDAKTOTO-slot",
+                "url": "https://www.maim.gov.my/index.php/ms//LANDAKTOTO-slot",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -919,27 +919,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://elektroda.uho.ac.id/index.php/journal#org",
+      "@id": "https://www.maim.gov.my/index.php/ms/#org",
       "name": "LANDAKTOTO",
-      "url": "https://elektroda.uho.ac.id/index.php/journal",
+      "url": "https://www.maim.gov.my/index.php/ms/",
       "logo": "https://ada-gambaran.pages.dev/landaktoto/bannerlnd2.png"
     },
     {
       "@type": "WebSite",
-      "@id": "https://elektroda.uho.ac.id/index.php/journal#website",
-      "url": "https://elektroda.uho.ac.id/index.php/journal",
+      "@id": "https://www.maim.gov.my/index.php/ms/#website",
+      "url": "https://www.maim.gov.my/index.php/ms/",
       "name": "LANDAKTOTO",
-      "publisher": { "@id": "https://elektroda.uho.ac.id/index.php/journal#org" },
+      "publisher": { "@id": "https://www.maim.gov.my/index.php/ms/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://elektroda.uho.ac.id/index.php/journal?s={search_term_string}",
+        "target": "https://www.maim.gov.my/index.php/ms/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://elektroda.uho.ac.id/index.php/journal#app",
+      "@id": "https://www.maim.gov.my/index.php/ms/#app",
       "name": "LANDAKTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -976,14 +976,14 @@ digitalData.page.pageInfo.pageName = pageName;
 
  <body>
 <div style="display: none;">
-    <a href="https://elektroda.uho.ac.id/index.php/journal">LANDAKTOTO</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Bersama LANDAKTOTO Slot Gacor</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Pola Slot Gacor Berbasis Data</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Generator Pola Slot Jitu</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Statistik RTP Slot Akurat</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Analisis Algoritma Slot 2026</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Strategi Maxwin Terukur</a>
-    <a href="https://elektroda.uho.ac.id/index.php/journal">Master Pola Slot Resmi</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">LANDAKTOTO</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Bersama LANDAKTOTO Slot Gacor</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Pola Slot Gacor Berbasis Data</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Generator Pola Slot Jitu</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Statistik RTP Slot Akurat</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Analisis Algoritma Slot 2026</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Strategi Maxwin Terukur</a>
+    <a href="https://www.maim.gov.my/index.php/ms/">Master Pola Slot Resmi</a>
 </div>
 
 
@@ -1111,7 +1111,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://elektroda.uho.ac.id/index.php/journal">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://www.maim.gov.my/index.php/ms/">
         <img src="https://ada-gambaran.pages.dev/landaktoto/logolnd.gif" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1399,7 +1399,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             LANDAKTOTO
             </span>
@@ -1416,7 +1416,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LANDAKTOTO RESMI
             </span>
@@ -1430,7 +1430,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LANDAKTOTO SLOT
             </span>
@@ -1444,7 +1444,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LANDAKTOTO GACOR
             </span>
@@ -1458,7 +1458,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT GACOR RESMI
             </span>
@@ -1472,7 +1472,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              SLOT MUDAH AKSES
             </span>
@@ -1505,7 +1505,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="LANDAKTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="LANDAKTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="LANDAKTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="LANDAKTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.maim.gov.my/index.php/ms/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1513,10 +1513,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="https://elektroda.uho.ac.id/index.php/journal" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+         <a data-linkinfo="https://www.maim.gov.my/index.php/ms/" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1539,7 +1539,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1589,14 +1589,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="https://elektroda.uho.ac.id/index.php/journal"
+              href="https://www.maim.gov.my/index.php/ms/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://elektroda.uho.ac.id/index.php/journal'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.maim.gov.my/index.php/ms/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1612,7 +1612,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
               slot
             </a>
            </div>
@@ -1644,7 +1644,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://elektroda.uho.ac.id/index.php/journal" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.maim.gov.my/index.php/ms/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2192,10 +2192,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://elektroda.uho.ac.id/index.php/journal" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.maim.gov.my/index.php/ms/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="https://elektroda.uho.ac.id/index.php/journal" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.maim.gov.my/index.php/ms/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2697,7 +2697,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/">
              Add to cart
             </a>
            </div>
@@ -2857,7 +2857,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://elektroda.uho.ac.id/index.php/journal" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.maim.gov.my/index.php/ms/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4255,7 +4255,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="https://elektroda.uho.ac.id/index.php/journal" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.maim.gov.my/index.php/ms/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6556,42 +6556,42 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     LANDAKTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     LANDAKTOTO LOGIN
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     LANDAKTOTO RESMI
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     LANDAKTOTO SLOT
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     LANDAKTOTO JITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     SITUS RESMI SLOT GACOR
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     SLOT GACOR JITU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     SLOT GACOR JITU TERBARU
                   </a>
                 </li>
@@ -6616,37 +6616,37 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Program Referral
                   </a>
                 </li>
@@ -6672,37 +6672,37 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Live Chat 24/7 Non-Stop
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6743,17 +6743,17 @@ function startGenerator() {
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Program VIP
                   </a>
                 </li>
@@ -6780,22 +6780,22 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6819,22 +6819,22 @@ function startGenerator() {
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Tentang LANDAKTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Kenapa Pilih LANDAKTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="https://elektroda.uho.ac.id/index.php/journal">
+                  <a class="footer-category__link" href="https://www.maim.gov.my/index.php/ms/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6854,7 +6854,7 @@ function startGenerator() {
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://elektroda.uho.ac.id/index.php/journal">
+            <a class="footer-language__anchor" href="https://www.maim.gov.my/index.php/ms/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6862,7 +6862,7 @@ function startGenerator() {
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="https://elektroda.uho.ac.id/index.php/journal">
+            <a class="footer-language__anchor" href="https://www.maim.gov.my/index.php/ms/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8208,7 +8208,7 @@ function startGenerator() {
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="https://elektroda.uho.ac.id/index.php/journal" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.maim.gov.my/index.php/ms/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8489,7 +8489,7 @@ function startGenerator() {
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8512,7 +8512,7 @@ function startGenerator() {
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8590,11 +8590,11 @@ function startGenerator() {
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.maim.gov.my/index.php/ms/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/" role="button">
         </a>
        </div>
       </div>
@@ -8660,12 +8660,12 @@ function startGenerator() {
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.maim.gov.my/index.php/ms/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.maim.gov.my/index.php/ms/" role="button">
            Yakin
           </a>
          </div>
@@ -8690,7 +8690,7 @@ function startGenerator() {
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal">
+        <a class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/">
          Best&auml;tigen
         </a>
        </div>
@@ -8713,7 +8713,7 @@ function startGenerator() {
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="https://elektroda.uho.ac.id/index.php/journal" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.maim.gov.my/index.php/ms/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8764,12 +8764,12 @@ function startGenerator() {
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.maim.gov.my/index.php/ms/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://elektroda.uho.ac.id/index.php/journal" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.maim.gov.my/index.php/ms/" role="button">
            Yakin
           </a>
          </div>
