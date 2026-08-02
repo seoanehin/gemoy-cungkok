@@ -6,15 +6,15 @@
 <title>MAHONGTOTO : Memasuki Link Server HK Lotto dengan Situs Toto Paling Popular</title>
 <link rel="icon" type="image/x-icon" href="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png" />
 <link rel="apple-touch-icon" href="https://img.culanseng.org/storage/images/mahongtoto/iconmhg.png">
-<link rel="canonical" href="https://coeuas.unimap.edu.my/">
-<link rel="amphtml" href="https://coeuas.kolakmahong.xyz/" />
-<link rel="alternate" hreflang="id-id" href="https://coeuas.kolakmahong.xyz/"/>
-<link rel="alternate" href="https://coeuas.kolakmahong.xyz/"/>
-<link rel="alternate" hreflang="id" href="https://coeuas.kolakmahong.xyz/"/>
-<link rel="alternate" hreflang="en" href="https://coeuas.kolakmahong.xyz/"/>
-<link rel="alternate" hreflang="x-default" href="https://coeuas.kolakmahong.xyz/"/>
-<link rel="alternate" media="only screen and (max-width: 640px)" href="https://coeuas.kolakmahong.xyz/" />
-<link rel="alternate" media="handheld" href="https://coeuas.kolakmahong.xyz/" />
+<link rel="canonical" href="https://www.atlantic.edu.ec/">
+<link rel="amphtml" href="https://atlantic.kolakmahong.xyz/" />
+<link rel="alternate" hreflang="id-id" href="https://atlantic.kolakmahong.xyz/"/>
+<link rel="alternate" href="https://atlantic.kolakmahong.xyz/"/>
+<link rel="alternate" hreflang="id" href="https://atlantic.kolakmahong.xyz/"/>
+<link rel="alternate" hreflang="en" href="https://atlantic.kolakmahong.xyz/"/>
+<link rel="alternate" hreflang="x-default" href="https://atlantic.kolakmahong.xyz/"/>
+<link rel="alternate" media="only screen and (max-width: 640px)" href="https://atlantic.kolakmahong.xyz/" />
+<link rel="alternate" media="handheld" href="https://atlantic.kolakmahong.xyz/" />
 <link as='image' href='https://img.culanseng.org/storage/images/mahongtoto/bannermahok5.webp' rel='preload'>
 <link crossorigin href='https://fonts.googleapis.com' rel='preconnect'>
 <link crossorigin href='https://ajax.googleapis.com' rel='preconnect'>
@@ -49,8 +49,8 @@
       trackLongTasks: true,
       defaultPrivacyLevel: 'mask-user-input',
       allowedTracingUrls: [
-        'https://coeuas.unimap.edu.my/',
-        'https://coeuas.unimap.edu.my/'
+        'https://www.atlantic.edu.ec/',
+        'https://www.atlantic.edu.ec/'
       ]
     });
   })
@@ -65,7 +65,7 @@
 <meta property="og:price:amount" content="99.00">
 <meta property="og:price:currency" content="USD">
 <meta property="og:type" content="website">
-<meta property="og:url" content="https://coeuas.unimap.edu.my/">
+<meta property="og:url" content="https://www.atlantic.edu.ec/">
 <meta property="og:image" content="https://img.culanseng.org/storage/images/mahongtoto/bannermahok5.webp">
 <meta property="og:site_name" content="TeePublic">
 <meta property="product:price:amount" content="23.00">
@@ -79,7 +79,7 @@
   window.dataLayer = window.dataLayer || [];
 </script>
 <script>
-  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://coeuas.unimap.edu.my/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://coeuas.unimap.edu.my/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"MAHONGTOTO adalah situs toto populer dengan akses link server HK Lotto yang cepat, aman, dan stabil. Nikmati pengalaman bermain yang nyaman serta layanan terpercaya hanya di MAHONGTOTO.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"MAHONGTOTO","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey MAHONGTOTO","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
+  dataLayer.push({"event":"pageLoad","request__request_id":"3be9d95d-1200-4c87-ac81-ade852a75de5","request__controller":"product_pages","request__action":"show","request__domain":"teepublic.com","request__base_url":"https://www.atlantic.edu.ec/","request__ab_tests":{"con-3051-pasf":"default"},"request__safe_search":true,"request__referring_affiliate_id":null,"request__referring_affiliate_ua_id":null,"request__referring_affiliate_ga4_id":null,"request__referring_affiliate_network_id":null,"locale__locale":"en","locale__currency_iso":"USD","locale__gdprcookie":"all","locale__euvisitor":false,"cart__items":[],"design__design_id":74235272,"design__canvas_id":1,"design__product_id":357,"design__parent_id":"77125264D1V","design__variant_id":"91G79A8C","design__variant":"{\"Gender\":\"Male Fit\",\"Style\":\"Classic T-Shirt\",\"Color\":\"Red\"}","design__mock_image":"https://res.cloudinary.com/teepublic/image/private/s--r5y407gx--/t_Resized Artwork/c_crop,x_10,y_10/c_fit,w_470/c_crop,g_north_west,h_626,w_470,x_0,y_0/g_north_west,u_upload:v1462829021:production:blanks:ypmyd1fntg5klzifbc7n,x_-395,y_-325/b_rgb:eeeeee/c_limit,f_jpg,h_630,q_90,w_630/v1744337506/production/designs/74235272_0.jpg","design__url":"https://www.atlantic.edu.ec/","design__canvas":"T-Shirt","design__canvas_canonical_name":"T-Shirt","design__design_title":"MAHONGTOTO adalah situs toto populer dengan akses link server HK Lotto yang cepat, aman, dan stabil. Nikmati pengalaman bermain yang nyaman serta layanan terpercaya hanya di MAHONGTOTO.","design__price":23.0,"design__price_usd":23.0,"design__price_in_currency":23.0,"design__primary_tag":"MAHONGTOTO","design__owner_type":"designer","design__owner_id":6705586,"design__on_sale":false,"design__currency_iso":"USD","design__feed_sku":null,"design__designer_name":"Hey MAHONGTOTO","design__designer_ua_id":null,"design__designer_ga4_id":null,"design__marketing_sku":"84165122D1V17G79A7C"})
 </script>
 <script>
   window.dataLayer.push({
@@ -213,7 +213,7 @@ MAHONGTOTO ✈️
 </div>
 
 </button></div>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://coeuas.unimap.edu.my/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://www.atlantic.edu.ec/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif" type="image/webp">
@@ -232,7 +232,7 @@ MAHONGTOTO ✈️
 </div>
 <div class='vc-header__search-container'>
 <div class='m-header__search m-header__search--animate jsHeadSearch inactive' data-navigation--header-target='searchFieldWrapper' data-sticky-header-target='searchRow'>
-<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://coeuas.unimap.edu.my/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
+<form id="search_form" class="jsHeadSearchForm gtmSearchHeader input-group" action="https://www.atlantic.edu.ec/" accept-charset="UTF-8" method="post"><input type="hidden" name="_method" value="patch" autocomplete="off" /><input type="hidden" name="authenticity_token" value="8vSeoYeGtlUiSjsTwv8MriSNw5KsyqV7SxcuKPWCkOHPWqc69ZHaEMWFV-CLUNdpe3IV90JnlZWjJ2U8fOsR1A" autocomplete="off" />
 <div class='m-header__search-field-container'>
 <div class='m-header__search-field-placeholder-wrapper' data-navigation--header-target='placeholderWrapper'>
 <div class='m-header__search-field-placeholder'>
@@ -276,14 +276,14 @@ MAHONGTOTO ✈️
 </div>
 
 <div class="btn-wrapper">
-  <a href="https://coeuas.kolakmahong.xyz/"
+  <a href="https://atlantic.kolakmahong.xyz/"
      class="btn-pill btn-login"
      target="_top"
      rel="noopener noreferrer">
     LOGIN
   </a>
 
-  <a href="https://coeuas.kolakmahong.xyz/"
+  <a href="https://atlantic.kolakmahong.xyz/"
      class="btn-pill btn-daftar"
      target="_top"
      rel="noopener noreferrer">
@@ -350,48 +350,48 @@ Shop All Designs
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://coeuas.unimap.edu.my/" title="Halloween T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Halloween" data-href="https://www.atlantic.edu.ec/" title="Halloween T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 MAHONGTOTO
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://coeuas.unimap.edu.my/" title="Music T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Music" data-href="https://www.atlantic.edu.ec/" title="Music T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 SITUS TOTO
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://coeuas.unimap.edu.my/" title="Sport T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Sports" data-href="https://www.atlantic.edu.ec/" title="Sport T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOTO 4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://coeuas.unimap.edu.my/" title="Movie T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.atlantic.edu.ec/" title="Movie T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOTO TOGEL
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://coeuas.unimap.edu.my/" title="Movie T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.atlantic.edu.ec/" title="Movie T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 TOTO TOGEL 4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://coeuas.unimap.edu.my/" title="Movie T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Movies" data-href="https://www.atlantic.edu.ec/" title="Movie T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 SITUS TOTO 4D
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://coeuas.unimap.edu.my/" title="Vintage T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Vintage" data-href="https://www.atlantic.edu.ec/" title="Vintage T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 SITUS TOTO TOGEL
   
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://coeuas.unimap.edu.my/" title="Animal T-Shirts" href="https://coeuas.unimap.edu.my/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="Animals" data-href="https://www.atlantic.edu.ec/" title="Animal T-Shirts" href="https://www.atlantic.edu.ec/" class="link m-explore-nav__link link--1 link--default tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent">
 <span class='link__content'>
 LINK SITUS TOTO
 
@@ -456,10 +456,10 @@ Selamat Datang Di MAHONGTOTO - Kumpulan Referensi Link Situs Toto Togel 4D Terpe
             },
             "sku": "MAHONGTOTO",
             "mpn": "00771-GCR",
-            "url": "https://coeuas.unimap.edu.my/",
+            "url": "https://www.atlantic.edu.ec/",
             "offers": {
                 "@type": "Offer",
-                "url": "https://coeuas.unimap.edu.my/",
+                "url": "https://www.atlantic.edu.ec/",
                 "priceCurrency": "idr",
                 "price": "0.00",
                 "priceValidUntil": "2025-12-31",
@@ -510,43 +510,43 @@ Selamat Datang Di MAHONGTOTO - Kumpulan Referensi Link Situs Toto Togel 4D Terpe
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "SITUS TOTO",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOTO TOGEL",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "TOTO TOGEL 4D",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "SITUS TOTO 4D",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 6,
       "name": "SITUS TOTO TOGEL",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     },
     {
       "@type": "ListItem",
       "position": 7,
       "name": "LINK SITUS TOTO",
-      "item": "https://coeuas.unimap.edu.my/"
+      "item": "https://www.atlantic.edu.ec/"
     }
   ]
 }
@@ -606,7 +606,7 @@ Selamat Datang Di MAHONGTOTO - Kumpulan Referensi Link Situs Toto Togel 4D Terpe
             "@context": "https://schema.org",
             "@type": "Organization",
             "name": "MAHONGTOTO",
-            "url": "https://coeuas.unimap.edu.my/",
+            "url": "https://www.atlantic.edu.ec/",
             "logo": "https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif",
             "sameAs": [
                 "https://www.facebook.com/MAHONGTOTO",
@@ -629,27 +629,27 @@ Selamat Datang Di MAHONGTOTO - Kumpulan Referensi Link Situs Toto Togel 4D Terpe
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "https://coeuas.unimap.edu.my/#org",
+      "@id": "https://www.atlantic.edu.ec/#org",
       "name": "MAHONGTOTO",
-      "url": "https://coeuas.unimap.edu.my/",
+      "url": "https://www.atlantic.edu.ec/",
       "logo": "https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif"
     },
     {
       "@type": "WebSite",
-      "@id": "https://coeuas.unimap.edu.my/#website",
-      "url": "https://coeuas.unimap.edu.my/",
+      "@id": "https://www.atlantic.edu.ec/#website",
+      "url": "https://www.atlantic.edu.ec/",
       "name": "MAHONGTOTO",
-      "publisher": { "@id": "https://coeuas.unimap.edu.my/#org" },
+      "publisher": { "@id": "https://www.atlantic.edu.ec/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "https://coeuas.unimap.edu.my/?s={search_term_string}",
+        "target": "https://www.atlantic.edu.ec/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "https://coeuas.unimap.edu.my/#app",
+      "@id": "https://www.atlantic.edu.ec/#app",
       "name": "MAHONGTOTO",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -778,9 +778,9 @@ Back
 <div class='m-cart-config__select-label'>
 </div>
     <div class="toto-toto-btn">
-    <a href="https://coeuas.kolakmahong.xyz/" rel="nofollow noreferrer"
+    <a href="https://atlantic.kolakmahong.xyz/" rel="nofollow noreferrer"
          class="login">LOGIN</a>
-    <a href="https://coeuas.kolakmahong.xyz/" rel="nofollow noreferrer"
+    <a href="https://atlantic.kolakmahong.xyz/" rel="nofollow noreferrer"
         class="register">DAFTAR</a>
     </div>
 
@@ -1399,13 +1399,13 @@ Read more
                                 
                                 <!-- === Artikel MAHONGTOTO RAPI tanpa H1/H2 === -->
                                 <div class="article-container">
-                                 <p><span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://coeuas.unimap.edu.my/">MAHONGTOTO</a></strong></span> menjadi salah satu platform yang menghadirkan kemudahan akses informasi secara praktis dan mudah dipahami. Dengan tampilan yang sederhana serta sistem yang responsif, MAHONGTOTO membantu pengguna menemukan berbagai referensi dengan lebih cepat tanpa proses yang rumit, sehingga pengalaman penggunaan terasa lebih nyaman dan efisien.
+                                 <p><span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://www.atlantic.edu.ec/">MAHONGTOTO</a></strong></span> menjadi salah satu platform yang menghadirkan kemudahan akses informasi secara praktis dan mudah dipahami. Dengan tampilan yang sederhana serta sistem yang responsif, MAHONGTOTO membantu pengguna menemukan berbagai referensi dengan lebih cepat tanpa proses yang rumit, sehingga pengalaman penggunaan terasa lebih nyaman dan efisien.
 
 </p>
-<p>Dalam perkembangan platform digital saat ini, keberadaan <span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://coeuas.unimap.edu.my/">Situs Toto</a></strong></span> menjadi salah satu kebutuhan bagi pengguna yang ingin mendapatkan informasi secara cepat dan terarah. MAHONGTOTO menyusun setiap referensi dengan rapi agar pengguna dapat langsung menemukan informasi yang dibutuhkan tanpa kebingungan saat mengaksesnya.
+<p>Dalam perkembangan platform digital saat ini, keberadaan <span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://www.atlantic.edu.ec/">Situs Toto</a></strong></span> menjadi salah satu kebutuhan bagi pengguna yang ingin mendapatkan informasi secara cepat dan terarah. MAHONGTOTO menyusun setiap referensi dengan rapi agar pengguna dapat langsung menemukan informasi yang dibutuhkan tanpa kebingungan saat mengaksesnya.
 </p>
                                   
-<p>Selain itu, MAHONGTOTO juga menghadirkan penyajian informasi <span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://coeuas.unimap.edu.my/">Situs Toto Togel</a></strong></span> yang dibuat lebih komunikatif dan mudah dipahami oleh berbagai kalangan pengguna. Dengan struktur yang jelas serta tampilan yang ringan, pengguna dapat mengikuti berbagai pembaruan dengan lebih nyaman dan tidak berbelit.
+<p>Selain itu, MAHONGTOTO juga menghadirkan penyajian informasi <span style="color: #e2d300;"><strong><a style="color: #e2d300;" href="https://www.atlantic.edu.ec/">Situs Toto Togel</a></strong></span> yang dibuat lebih komunikatif dan mudah dipahami oleh berbagai kalangan pengguna. Dengan struktur yang jelas serta tampilan yang ringan, pengguna dapat mengikuti berbagai pembaruan dengan lebih nyaman dan tidak berbelit.
 </p>
                                   
 <p>Keunggulan lain dari MAHONGTOTO terletak pada sistem yang stabil dan akses yang ringan, sehingga pengguna dapat membuka platform kapan saja tanpa kendala berarti. Hal ini memberikan pengalaman yang lebih konsisten dan efisien dalam setiap penggunaan.
@@ -1639,7 +1639,7 @@ Read more
 </script>
 
     <div class="seller-name__detail">
-      <a href="https://coeuas.kolakmahong.xyz/" target="_top" rel="noopener noreferrer">
+      <a href="https://atlantic.kolakmahong.xyz/" target="_top" rel="noopener noreferrer">
         MAHONGTOTO - 2026
       </a>
     </div>
@@ -1656,7 +1656,7 @@ Share this design:
 <div class='jsSocial'>
 <ul class='m-social-share'>
 <li>
-<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://coeuas.kolakmahong.xyz/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
+<a aria-label="Share to Twitter" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://atlantic.kolakmahong.xyz/" class="link jsTwitterProductShare gtmTwitterProductShare twitter link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/twitter_x-e7ec227c1ad2634b8096bcccb765eddf5be0612af99dc39f81589c7440f53741.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1664,7 +1664,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://coeuas.kolakmahong.xyz/" class="link gtmFbProductShare facebook link--1 link--default">
+<a aria-label="Share to Facebook" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://atlantic.kolakmahong.xyz/" class="link gtmFbProductShare facebook link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/facebook-782a69eed8f8c44472034fa1a149c795915e716c13a0c9499e024cb5d43f3ba5.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1672,7 +1672,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Linktree" target="_blank" href="https://coeuas.kolakmahong.xyz/" class="link gtmLinktreeProductShare linktree link--1 link--default">
+<a aria-label="Share to Linktree" target="_blank" href="https://atlantic.kolakmahong.xyz/" class="link gtmLinktreeProductShare linktree link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/linktree-77e016868e593884b6412143a45aad6268f47dc11dede4fe3dfec967af8379c7.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1680,7 +1680,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://coeuas.kolakmahong.xyz/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
+<a aria-label="Save to Pinterest" onclick="window.open(this.href,&#39;pagename&#39;,&#39;resizable,height=400,width=600&#39;); return false" href="https://atlantic.kolakmahong.xyz/" class="link jsPinterestProductShare gtmPinterestProductShare pinterest link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/pinterest-bf44b194464a76e11f21f63eedb266534dafbdd4d28f646eb1f731f0737f1d27.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1688,7 +1688,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Reddit" target="_blank" href="https://coeuas.kolakmahong.xyz/" class="link gtmRedditProductShare reddit link--1 link--default">
+<a aria-label="Share to Reddit" target="_blank" href="https://atlantic.kolakmahong.xyz/" class="link gtmRedditProductShare reddit link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/reddit-a08812dd6e957c987946f6fa3808df6dada5b1f95e538017767af02adfda49b8.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1696,7 +1696,7 @@ Share this design:
 
 </a></li>
 <li>
-<a aria-label="Share to Tumblr" target="_blank" href="https://coeuas.kolakmahong.xyz/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
+<a aria-label="Share to Tumblr" target="_blank" href="https://atlantic.kolakmahong.xyz/" class="link jsTumblrProductShare gtmTumblrProductShare tumblr link--1 link--default">
 <span class='link__content'>
 <span class="teepublicon teepublicon--blue-default teepublicon-background--transparent teepublicon-variant--circle medium"><img src="https://assets.teepublic.com/assets/teepublicons/tumblr-72746366fce360d1a23b94973d204278af451141b23aebe1dd3671bfff083f2a.svg" loading="lazy" height="24" width="24" aria_hidden="true" focusable="false"></span>
 
@@ -1931,7 +1931,7 @@ Away from
 <h4>Your Cart is empty...</h4>
 <p>Discover something you'll love!</p>
 <div class='m-tray-cart__body-links'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 animals
 
@@ -1961,13 +1961,13 @@ food
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 funny
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 movies
 
@@ -1979,19 +1979,19 @@ sci-fi
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 sports
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 television
 
 </span>
 
-</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://coeuas.unimap.edu.my/" href="https://coeuas.unimap.edu.my/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
+</a><a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.atlantic.edu.ec/" href="https://www.atlantic.edu.ec/" class="link vc-pill vc-pill--on-light link--default link--strong tp-btn--icon"><span class="teepublicon teepublicon--blue-default teepublicon-background--transparent"><svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 48 48" width="16" height="16" focusable="false" aria-hidden="true"><path fill-rule="evenodd" d="M31.523 35.766a17.393 17.393 0 0 1-10.051 3.178C11.822 38.944 4 31.121 4 21.472 4 11.822 11.822 4 21.472 4c9.65 0 17.472 7.822 17.472 17.472 0 3.741-1.176 7.208-3.178 10.05l7.355 7.356a3 3 0 1 1-4.243 4.243l-7.355-7.355Zm1.42-14.294c0 6.335-5.136 11.471-11.471 11.471s-11.471-5.136-11.471-11.471 5.136-11.471 11.471-11.471 11.471 5.136 11.471 11.471Z" clip-rule="evenodd"></path></svg></span>
 <span class='link__content'>
 vintage
 
@@ -2279,7 +2279,7 @@ Back To Menu
 <div class='drawer__content-container jsDrawerContentContainer'>
 <div class='m-tray-shop__body'>
 <div class='m-tray-shop__logo-container'>
-<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://coeuas.unimap.edu.my/" class="link vc-header-logo__wrapper link--1 link--default">
+<div class="vc-header-logo"><a aria-label="Home Link" title="Home" href="https://www.atlantic.edu.ec/" class="link vc-header-logo__wrapper link--1 link--default">
 <span class='link__content'>
 <picture>
   <source srcset="https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif" type="image/webp">
@@ -2391,13 +2391,13 @@ Back To Menu
 </div>
 <div class="m-tray-shop__popular-topics"><h3>Browse All Topics</h3>
 <div class='m-tray-shop__popular-topics-content'>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://coeuas.unimap.edu.my/" title="Funny" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="funny" data-href="https://www.atlantic.edu.ec/" title="Funny" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 funny
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://coeuas.unimap.edu.my/" title="Music" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="music" data-href="https://www.atlantic.edu.ec/" title="Music" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 music
 </span>
@@ -2409,19 +2409,19 @@ anime
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://coeuas.unimap.edu.my/" title="Movies" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="movies" data-href="https://www.atlantic.edu.ec/" title="Movies" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 movies
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://coeuas.unimap.edu.my/" title="Television" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="television" data-href="https://www.atlantic.edu.ec/" title="Television" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 television
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://coeuas.unimap.edu.my/" title="Sports" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="sports" data-href="https://www.atlantic.edu.ec/" title="Sports" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 sports
 </span>
@@ -2433,13 +2433,13 @@ sci-fi
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://coeuas.unimap.edu.my/" title="Vintage" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="vintage" data-href="https://www.atlantic.edu.ec/" title="Vintage" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 vintage
 </span>
 
 </a>
-<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://coeuas.unimap.edu.my/" title="Animals" href="https://coeuas.unimap.edu.my/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
+<a data-rudderstack-event-type="link" data-action="click-&gt;rudderstack--link-clicked#track" data-link-label="animals" data-href="https://www.atlantic.edu.ec/" title="Animals" href="https://www.atlantic.edu.ec/" class="link m-tray-shop__popular-topic vc-pill vc-pill--on-dark link--default link--strong">
 <span class='link__content'>
 animals
 </span>
@@ -2808,7 +2808,7 @@ Shop All Designs
   
   var rsEnvData = {
     write_key: "2HNPADTAqRU1fVtw8bfPRR44gtx",
-    data_plane_url: "https://coeuas.kolakmahong.xyz/",
+    data_plane_url: "https://atlantic.kolakmahong.xyz/",
     js_use_beacon: false,
     anonymous_id: "cd1d819e-a9e0-4e3d-b8be-56639cfbd299",
     global_properties: window.rudderstackGlobalProperties
@@ -3251,8 +3251,8 @@ height="0" width="0" style="display:none;visibility:hidden" rel="dns-prefetch"><
      <img src="https://img.culanseng.org/storage/images/mahongtoto/bannermahok5.webp" class="popup-image">
 
       <div class="popup-buttons">
-        <a href="https://coeuas.kolakmahong.xyz/">LOGIN</a>
-        <a href="https://coeuas.kolakmahong.xyz/">DAFTAR</a>
+        <a href="https://atlantic.kolakmahong.xyz/">LOGIN</a>
+        <a href="https://atlantic.kolakmahong.xyz/">DAFTAR</a>
       </div>
 
       <div class="popup-footer">
