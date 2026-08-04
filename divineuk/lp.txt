@@ -2,7 +2,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
   <head>
-    <link href="https://www.divineuk.org/" rel="preconnect">
+    <link href="https://aclassimmigration.com.au/" rel="preconnect">
     <meta charset="utf-8">
     <meta content="IE=edge" http-equiv="X-UA-Compatible">
     <meta content="text/html; charset=utf-8" http-equiv="content-type">
@@ -13,7 +13,7 @@
     <meta name="google-site-verification" content="yCE1Tja5UfK192C3mvOpW5t7VzjAt5yZEG-KzrC9Cyg" />
     <meta name="title" content="MAHONGTOTO | Portal Digital Agen Slot Gacor 2026! Link Alternatif Mudah Jackpot">
     <meta name="robots" content="index, follow, nosnippet">
-    <link rel="canonical" href="https://www.divineuk.org/">
+    <link rel="canonical" href="https://aclassimmigration.com.au/">
     <link rel="amphtml" href="https://divineuk.mahongtoto.online/">
     <link rel="alternate" hreflang="id-id" href="https://divineuk.mahongtoto.online/">
     <link rel="alternate" href="https://divineuk.mahongtoto.online/">
@@ -27,12 +27,12 @@
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:title" content="MAHONGTOTO | Portal Digital Agen Slot Gacor 2026! Link Alternatif Mudah Jackpot">
     <meta name="twitter:description" content="MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.">
-    <meta name="twitter:url" content="https://www.divineuk.org/">
+    <meta name="twitter:url" content="https://aclassimmigration.com.au/">
     <meta name="twitter:image" content="https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif">
     <meta property="og:type" content="website">
     <meta property="og:site_name" content="MAHONGTOTO">
     <meta property="og:locale" content="id_ID">
-    <meta property="og:url" content="https://www.divineuk.org/">
+    <meta property="og:url" content="https://aclassimmigration.com.au/">
     <meta property="og:title" content="MAHONGTOTO | Portal Digital Agen Slot Gacor 2026! Link Alternatif Mudah Jackpot">
     <meta property="og:description" content="MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.">
     <meta property="og:image" content="https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp">
@@ -1173,9 +1173,9 @@
       "@context": "https://schema.org",
       "@graph": [{
           "@type": "Organization",
-          "@id": "https://www.divineuk.org/#organization",
+          "@id": "https://aclassimmigration.com.au/#organization",
           "name": "MAHONGTOTO",
-          "url": "https://www.divineuk.org/",
+          "url": "https://aclassimmigration.com.au/",
           "logo": "https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif",
           "sameAs": [
             "https://facebook.com/mahongtoto",
@@ -1200,30 +1200,30 @@
         },
         {
           "@type": "BreadcrumbList",
-          "@id": "https://www.divineuk.org/#breadcrumb",
+          "@id": "https://aclassimmigration.com.au/#breadcrumb",
           "itemListElement": [{
               "@type": "ListItem",
               "position": 1,
               "name": "MAHONGTOTO",
-              "item": "https://www.divineuk.org/"
+              "item": "https://aclassimmigration.com.au/"
             },
             {
               "@type": "ListItem",
               "position": 2,
               "name": "SLOT GACOR",
-              "item": "https://www.divineuk.org//bandar-slot-gacor"
+              "item": "https://aclassimmigration.com.au//bandar-slot-gacor"
             },
             {
               "@type": "ListItem",
               "position": 3,
               "name": "RTP SLOT MAXWIN",
-              "item": "https://www.divineuk.org//rtp-slot-maxwin"
+              "item": "https://aclassimmigration.com.au//rtp-slot-maxwin"
             }
           ]
         },
         {
           "@type": "Product",
-          "@id": "https://www.divineuk.org/demo#product",
+          "@id": "https://aclassimmigration.com.au/demo#product",
           "name": "Slot Gacor",
           "image": [
             "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp"
@@ -1235,7 +1235,7 @@
           },
           "sku": "Mahongtoto-Bandar-SlotGacor",
           "category": "Mahongtoto-Bandar-SlotGacor",
-          "url": "https://www.divineuk.org/",
+          "url": "https://aclassimmigration.com.au/",
           "aggregateRating": {
             "@type": "AggregateRating",
             "ratingValue": "4.9",
@@ -1342,7 +1342,7 @@
           ],
           "offers": {
             "@type": "Offer",
-            "url": "https://www.divineuk.org/",
+            "url": "https://aclassimmigration.com.au/",
             "priceCurrency": "IDR",
             "price": "0",
             "availability": "https://schema.org/InStock"
@@ -1350,7 +1350,7 @@
         },
         {
           "@type": "ItemList",
-          "@id": "https://www.divineuk.org/#merchant-listing",
+          "@id": "https://aclassimmigration.com.au/#merchant-listing",
           "name": "MAHONGTOTO",
           "itemListOrder": "https://schema.org/ItemListOrderDescending",
           "itemListElement": [{
@@ -1358,9 +1358,9 @@
               "position": 1,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//bandar-slot-gacor#product",
+                "@id": "https://aclassimmigration.com.au//bandar-slot-gacor#product",
                 "name": "Bandar Slot Gacor",
-                "url": "https://www.divineuk.org//bandar-slot-gacor",
+                "url": "https://aclassimmigration.com.au//bandar-slot-gacor",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1375,7 +1375,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//Slot-Gacor",
+                  "url": "https://aclassimmigration.com.au//Slot-Gacor",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1387,9 +1387,9 @@
               "position": 2,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//rtp-slot-maxwin#product",
+                "@id": "https://aclassimmigration.com.au//rtp-slot-maxwin#product",
                 "name": "RTP Slot Maxwin",
-                "url": "https://www.divineuk.org//rtp-slot-maxwin",
+                "url": "https://aclassimmigration.com.au//rtp-slot-maxwin",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1404,7 +1404,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org/",
+                  "url": "https://aclassimmigration.com.au/",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1416,9 +1416,9 @@
               "position": 3,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//Slot-Gacor-Resmi#product",
+                "@id": "https://aclassimmigration.com.au//Slot-Gacor-Resmi#product",
                 "name": "Slot Gacor Resmi",
-                "url": "https://www.divineuk.org//Slot-Gacor-Resmi",
+                "url": "https://aclassimmigration.com.au//Slot-Gacor-Resmi",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1433,7 +1433,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//Slot-Gacor-Maxwin",
+                  "url": "https://aclassimmigration.com.au//Slot-Gacor-Maxwin",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1445,9 +1445,9 @@
               "position": 4,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//slot-gacor#product",
+                "@id": "https://aclassimmigration.com.au//slot-gacor#product",
                 "name": "Slot Gacor",
-                "url": "https://www.divineuk.org//slot-gacor",
+                "url": "https://aclassimmigration.com.au//slot-gacor",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1462,7 +1462,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//slot-gacor",
+                  "url": "https://aclassimmigration.com.au//slot-gacor",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1474,9 +1474,9 @@
               "position": 5,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//bandar-slot#product",
+                "@id": "https://aclassimmigration.com.au//bandar-slot#product",
                 "name": "Bandar Slot",
-                "url": "https://www.divineuk.org//bandar-slot",
+                "url": "https://aclassimmigration.com.au//bandar-slot",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1491,7 +1491,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//bandar-slot",
+                  "url": "https://aclassimmigration.com.au//bandar-slot",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1503,9 +1503,9 @@
               "position": 6,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//rtp-slot#product",
+                "@id": "https://aclassimmigration.com.au//rtp-slot#product",
                 "name": "RTP Slot",
-                "url": "https://www.divineuk.org//rtp-slot",
+                "url": "https://aclassimmigration.com.au//rtp-slot",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1520,7 +1520,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//rtp-slot",
+                  "url": "https://aclassimmigration.com.au//rtp-slot",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1532,9 +1532,9 @@
               "position": 7,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//slot-maxwin#product",
+                "@id": "https://aclassimmigration.com.au//slot-maxwin#product",
                 "name": "Slot Maxwin",
-                "url": "https://www.divineuk.org//slot-maxwin",
+                "url": "https://aclassimmigration.com.au//slot-maxwin",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1549,7 +1549,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//slot-maxwin",
+                  "url": "https://aclassimmigration.com.au//slot-maxwin",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1561,9 +1561,9 @@
               "position": 8,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//rtp-slot-gacor-hari-ini#product",
+                "@id": "https://aclassimmigration.com.au//rtp-slot-gacor-hari-ini#product",
                 "name": "RTP Slot Gacor Hari Ini",
-                "url": "https://www.divineuk.org//rtp-slot-gacor-hari-ini",
+                "url": "https://aclassimmigration.com.au//rtp-slot-gacor-hari-ini",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1578,7 +1578,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//rtp-slot-gacor-hari-ini",
+                  "url": "https://aclassimmigration.com.au//rtp-slot-gacor-hari-ini",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1590,9 +1590,9 @@
               "position": 9,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//slot-maxwin-hari-ini#product",
+                "@id": "https://aclassimmigration.com.au//slot-maxwin-hari-ini#product",
                 "name": "Slot Maxwin Hari Ini",
-                "url": "https://www.divineuk.org//slot-maxwin-hari-ini",
+                "url": "https://aclassimmigration.com.au//slot-maxwin-hari-ini",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1607,7 +1607,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//slot-maxwin-hari-ini",
+                  "url": "https://aclassimmigration.com.au//slot-maxwin-hari-ini",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1619,9 +1619,9 @@
               "position": 10,
               "item": {
                 "@type": "Product",
-                "@id": "https://www.divineuk.org//situs-slot-gacor#product",
+                "@id": "https://aclassimmigration.com.au//situs-slot-gacor#product",
                 "name": "Situs Slot Gacor",
-                "url": "https://www.divineuk.org//situs-slot-gacor",
+                "url": "https://aclassimmigration.com.au//situs-slot-gacor",
                 "image": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp",
                 "description": "MAHONGTOTO, portal digital agen slot gacor 2026 dengan link alternatif terbaru. Akses cepat, aman, mudah jackpot, dan tersedia 24 jam setiap hari.",
                 "brand": {
@@ -1636,7 +1636,7 @@
                 },
                 "offers": {
                   "@type": "Offer",
-                  "url": "https://www.divineuk.org//situs-slot-gacor",
+                  "url": "https://aclassimmigration.com.au//situs-slot-gacor",
                   "priceCurrency": "IDR",
                   "price": "0",
                   "availability": "https://schema.org/InStock"
@@ -1708,29 +1708,29 @@
       "@context": "https://schema.org",
       "@graph": [{
           "@type": "Organization",
-          "@id": "https://www.divineuk.org/#org",
+          "@id": "https://aclassimmigration.com.au/#org",
           "name": "MAHONGTOTO",
-          "url": "https://www.divineuk.org/",
+          "url": "https://aclassimmigration.com.au/",
           "logo": "https://img.culanseng.org/storage/images/mahongtoto/bannermah3.webp"
         },
         {
           "@type": "WebSite",
-          "@id": "https://www.divineuk.org/#website",
-          "url": "https://www.divineuk.org/",
+          "@id": "https://aclassimmigration.com.au/#website",
+          "url": "https://aclassimmigration.com.au/",
           "name": "MAHONGTOTO",
           "publisher": {
-            "@id": "https://www.divineuk.org/#org"
+            "@id": "https://aclassimmigration.com.au/#org"
           },
           "inLanguage": "id-ID",
           "potentialAction": {
             "@type": "SearchAction",
-            "target": "https://www.divineuk.org/?s={search_term_string}",
+            "target": "https://aclassimmigration.com.au/?s={search_term_string}",
             "query-input": "required name=search_term_string"
           }
         },
         {
           "@type": "SoftwareApplication",
-          "@id": "https://www.divineuk.org/#app",
+          "@id": "https://aclassimmigration.com.au/#app",
           "name": "MAHONGTOTO",
           "applicationCategory": "GameApplication",
           "operatingSystem": "Android, iOS, Windows",
@@ -1829,7 +1829,7 @@
         <div class="nv00-gnb-v4__wrap">
           <div class="nv00-gnb-v4__inner">
             <div class="nv00-gnb-v4__header">
-              <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://www.divineuk.org/">
+              <a an-ac="gnb" an-ca="navigation" an-la="SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="SLOT" class="nv00-gnb-v4__logo" href="https://aclassimmigration.com.au/">
                 <img src="https://img.culanseng.org/storage/images/mahongtoto/logomhg.gif" alt="" width="200" height="56">
               </a>
               <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -2076,7 +2076,7 @@
                 <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menu">
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
                           MAHONGTOTO
                         </span>
@@ -2091,7 +2091,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="BANDAR SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="BANDAR SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text">
                           BANDAR SLOT
                         </span>
@@ -2103,7 +2103,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="SLOT GACOR" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="SLOT GACOR" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text">
                           SLOT GACOR
                         </span>
@@ -2115,7 +2115,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="RTP SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="RTP SLOT" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text">
                           RTP SLOT
                         </span>
@@ -2127,7 +2127,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="SLOT MAXWIN" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="SLOT MAXWIN" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text">
                           SLOT MAXWIN
                         </span>
@@ -2139,7 +2139,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="RTP GACOR" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem">
+                      <a an-ac="gnb" an-ca="navigation" an-la="RTP GACOR" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem">
                         <span class="nv00-gnb-v4__l0-menu-text">
                           RTP GACOR
                         </span>
@@ -2168,7 +2168,7 @@
                   </li>
                   <li class="nv00-gnb-v4__l0-menu">
                     <div class="nv00-gnb-v4__l0-menu-title">
-                      <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.divineuk.org/" role="menuitem" target="_blank">
+                      <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://aclassimmigration.com.au/" role="menuitem" target="_blank">
                         DAFTAR
                       </a>
                     </div>
@@ -2176,10 +2176,10 @@
                   <!-- Non-Type Right Menu End -->
                 </ul>
                 <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-                  <a data-linkinfo="https://www.divineuk.org/" href="https://www.divineuk.org/" role="menuitem">
+                  <a data-linkinfo="https://aclassimmigration.com.au/" href="https://aclassimmigration.com.au/" role="menuitem">
                     Login/Sign-Up
                   </a>
-                  <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.divineuk.org/" role="menuitem">
+                  <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://aclassimmigration.com.au/" role="menuitem">
                     Receive up to 5% of your purchase back in points.
                     <svg aria-hidden="true" class="icon" focusable="false">
                       <use href="#next-regular" xlink:href="#next-regular"></use>
@@ -2194,7 +2194,7 @@
                     <p class="user-name"></p>
                     <p class="hidden">Buka Menu Saya</p>
                   </a>
-                  <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.divineuk.org/" role="menuitem">
+                  <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://aclassimmigration.com.au/" role="menuitem">
                     Receive up to 5% of your purchase back in points.
                     <svg aria-hidden="true" class="icon" focusable="false">
                       <use href="#next-regular" xlink:href="#next-regular"></use>
@@ -2229,16 +2229,16 @@
                     </button>
                     <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
                       <div class="nv00-gnb-v4__utility-menu-wrap">
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://www.divineuk.org/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="
+                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only" href="https://aclassimmigration.com.au/" role="menuitem" target="_self" rel="noopener noreferrer" onclick="
                             event.stopImmediatePropagation();
                             event.preventDefault();
                             window.location.href =
-                              'https://www.divineuk.org/';
+                              'https://aclassimmigration.com.au/';
                             return false;
                           ">
                           Login/Sign-Up
                         </a>
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.divineuk.org/" role="menuitem">
+                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://aclassimmigration.com.au/" role="menuitem">
                           Receive up to 5% of your purchase back in points.
                           <svg aria-hidden="true" class="icon" focusable="false">
                             <use href="#next-regular" xlink:href="#next-regular"></use>
@@ -2253,7 +2253,7 @@
                         <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
                           Members
                         </a>
-                        <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.divineuk.org/" role="menuitem">
+                        <a an-ac="gnb" an-ca="account" an-la="SLOT" an-tr="nv00_gnb-product detail-account-account" aria-label="SLOT" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://aclassimmigration.com.au/" role="menuitem">
                           SLOT
                         </a>
                       </div>
@@ -2274,7 +2274,7 @@
                           </svg>
                           <p class="user-name"></p>
                         </a>
-                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.divineuk.org/" role="menuitem">
+                        <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://aclassimmigration.com.au/" role="menuitem">
                           Receive up to 5% of your purchase back in points.
                           <svg aria-hidden="true" class="icon" focusable="false">
                             <use href="#next-regular" xlink:href="#next-regular"></use>
@@ -2762,10 +2762,10 @@
             </div>
           </div>
           <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="https://www.divineuk.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://aclassimmigration.com.au/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
               Masuk
             </a>
-            <a href="https://www.divineuk.org/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://aclassimmigration.com.au/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
               Daftar
             </a>
           </div>
@@ -3218,7 +3218,7 @@
                     </div>
                   </div>
                   <div class="pdd16-step-buying-v2__bottom-price__cta">
-                    <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/">
+                    <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/">
                       Add to cart
                     </a>
                   </div>
@@ -3350,7 +3350,7 @@
                         </li>
                       </ul>
                       <div class="pdd16-step-buying-v2__learn-more-cta">
-                        <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.divineuk.org/" target="_blank">
+                        <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://aclassimmigration.com.au/" target="_blank">
                           Product detail
                           <svg aria-hidden="true" class="icon" focusable="false">
                             <use href="#outlink-bold" xlink:href="#outlink-bold"></use>
@@ -4989,7 +4989,7 @@
               </p>
               <div class="cost-box__cta-wrap">
                 <span class="cost-box__cta">
-                  <a href="https://www.divineuk.org/" class="cta cta--contained cta--emphasis add-special-tagging">
+                  <a href="https://aclassimmigration.com.au/" class="cta cta--contained cta--emphasis add-special-tagging">
                     Masuk/Daftar
                   </a>
                 </span>
@@ -7003,7 +7003,7 @@
             </div>
             <div class="highlight-box">
               <p style="text-align: justify">
-                <a href="https://www.divineuk.org/">MAHONGTOTO</a>
+                <a href="https://aclassimmigration.com.au/">MAHONGTOTO</a>
                 hadir sebagai bandar situs slot gacor yang berfokus pada satu hal:
                 menyajikan data RTP hari ini secara akurat supaya member lebih
                 gampang menemukan momen maxwin. Berbeda dari situs slot pada
@@ -7966,7 +7966,7 @@
       <div class="breadcrumb__inner">
         <ul class="breadcrumb__path" role="list">
           <li role="listitem">
-            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:bandar-slot-gacor" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Bandar Slot Gacor" href="https://www.divineuk.org//bandar-slot-gacor">
+            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:bandar-slot-gacor" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Bandar Slot Gacor" href="https://aclassimmigration.com.au//bandar-slot-gacor">
               <span class="breadcrumb__text-desktop">
                 BANDAR SLOT GACOR <span style="margin-left: 15px">&gt;</span>
               </span>
@@ -7979,7 +7979,7 @@
             </svg>
           </li>
           <li role="listitem">
-            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:rtp-slot-maxwin" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="RTP Slot Maxwin" href="https://www.divineuk.org//rtp-slot-maxwin">
+            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:rtp-slot-maxwin" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="RTP Slot Maxwin" href="https://aclassimmigration.com.au//rtp-slot-maxwin">
               <span class="breadcrumb__text-desktop">
                 RTP SLOT MAXWIN <span style="margin-left: 15px">&gt;</span>
               </span>
@@ -7992,7 +7992,7 @@
             </svg>
           </li>
           <li role="listitem">
-            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:slot-maxwin-resmi" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Slot Maxwin Resmi" href="https://www.divineuk.org//slot-maxwin-resmi">
+            <a an-ac="breadcrumb" an-ca="navigation" an-la="breadcrumb:slot-maxwin-resmi" an-tr="nv03_breadcrumb-product detail-text-breadcrumb" aria-label="Slot Maxwin Resmi" href="https://aclassimmigration.com.au//slot-maxwin-resmi">
               <span class="breadcrumb__text-desktop"> SLOT MAXWIN RESMI </span>
               <span class="breadcrumb__text-mobile"> SLOT MAXWIN </span>
             </a>
@@ -8149,52 +8149,52 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       MAHONGTOTO
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       SLOT GACOR
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       BANDAR SLOT
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       RTP SLOT
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       SLOT MAXWIN
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       BANDAR SLOT GACOR
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       RTP SLOT GACOR HARI INI
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       SLOT GACOR RESMI
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       SLOT MAXWIN HARI INI
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       SITUS SLOT GACOR
                     </a>
                   </li>
@@ -8219,37 +8219,37 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Promo & Bonus Harian
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Turnamen & Event
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Program VIP & Cashback
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Metode Pembayaran
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Fitur Deposit
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Fitur Withdraw
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Program Referral
                     </a>
                   </li>
@@ -8274,37 +8274,37 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Pusat Bantuan
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Live Chat 24/7
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       WhatsApp Support
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       FAQ
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Kebijakan Privasi
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Syarat & Ketentuan
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Responsible Gaming
                     </a>
                   </li>
@@ -8344,17 +8344,17 @@
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Riwayat Transaksi
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Fitur Verifikasi
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Program VIP
                     </a>
                   </li>
@@ -8378,22 +8378,22 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Fitur Akses
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Fitur Pemula
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Aturan & Kebijakan
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Kontak Resmi
                     </a>
                   </li>
@@ -8414,22 +8414,22 @@
               <div class="footer-category__list-wrap">
                 <ul class="footer-category__list" role="list">
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Tentang Slot Gacor
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Kenapa Pilih MAHONGTOTO
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Partner & Affiliate
                     </a>
                   </li>
                   <li class="footer-category__item" role="listitem">
-                    <a class="footer-category__link" href="https://www.divineuk.org/" an-as="">
+                    <a class="footer-category__link" href="https://aclassimmigration.com.au/" an-as="">
                       Brand & Identitas
                     </a>
                   </li>
@@ -8447,14 +8447,14 @@
               </p>
             </div>
             <div class="footer-language">
-              <a class="footer-language__anchor" href="https://www.divineuk.org/" an-as="">
+              <a class="footer-language__anchor" href="https://aclassimmigration.com.au/" an-as="">
                 Indonesia / Bahasa Indonesia
               </a>
             </div>
           </div>
           <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
             <div class="footer-language">
-              <a class="footer-language__anchor" href="https://www.divineuk.org/" an-as="">
+              <a class="footer-language__anchor" href="https://aclassimmigration.com.au/" an-as="">
                 Indonesia / Bahasa Indonesia
               </a>
             </div>
@@ -11906,7 +11906,7 @@
           </div>
           <div class="fold-alert-popup__cta">
             <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-            <a class="cta cta--outlined cta--black" href="https://www.divineuk.org/" title="Tutup">
+            <a class="cta cta--outlined cta--black" href="https://aclassimmigration.com.au/" title="Tutup">
               Tutup
             </a>
           </div>
@@ -12227,7 +12227,7 @@
             Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen,
             gelesen und erkläre mich mit diesen einverstanden.
             <div class="hubble-care-popup__alert-button">
-              <a class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/" title="Bestätigen">
+              <a class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/" title="Bestätigen">
                 Bestätigen
               </a>
             </div>
@@ -12248,7 +12248,7 @@
             Ich habe das Informationsblatt zur Versicherung heruntergeladen und
             sorgfältig durchgelesen.
             <div class="hubble-care-popup__alert-button">
-              <a class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/" title="Bestätigen">
+              <a class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/" title="Bestätigen">
                 Bestätigen
               </a>
             </div>
@@ -12379,11 +12379,11 @@
           </div>
           <div class="wishlist-popup__cta-wrap">
             <div class="wishlist-popup__cta">
-              <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.divineuk.org/" role="button">
+              <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://aclassimmigration.com.au/" role="button">
               </a>
             </div>
             <div class="wishlist-popup__cta">
-              <a class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/" role="button">
+              <a class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/" role="button">
               </a>
             </div>
           </div>
@@ -12458,12 +12458,12 @@
               </div>
               <div class="extended-warranty-popup__button-inner">
                 <div class="extended-warranty-popup__button-item">
-                  <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.divineuk.org/" role="button">
+                  <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://aclassimmigration.com.au/" role="button">
                     Tutup
                   </a>
                 </div>
                 <div class="extended-warranty-popup__button-item">
-                  <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.divineuk.org/" role="button">
+                  <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://aclassimmigration.com.au/" role="button">
                     Yakin
                   </a>
                 </div>
@@ -12486,7 +12486,7 @@
             Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen,
             gelesen und erkläre mich mit diesen einverstanden.
             <div class="extended-warranty-popup__alert-button">
-              <a class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/">
+              <a class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/">
                 Bestätigen
               </a>
             </div>
@@ -12507,7 +12507,7 @@
             Ich habe das Informationsblatt zur Versicherung heruntergeladen und
             sorgfältig durchgelesen.
             <div class="extended-warranty-popup__alert-button">
-              <a class="cta cta--contained cta--emphasis" href="https://www.divineuk.org/" title="">
+              <a class="cta cta--contained cta--emphasis" href="https://aclassimmigration.com.au/" title="">
                 Bestätigen
               </a>
             </div>
@@ -12563,12 +12563,12 @@
             <div class="extended-warranty-popup-vd__button">
               <div class="extended-warranty-popup-vd__button-inner">
                 <div class="extended-warranty-popup-vd__button-item">
-                  <a class="cta cta--outlined cta--black" href="https://www.divineuk.org/" role="button">
+                  <a class="cta cta--outlined cta--black" href="https://aclassimmigration.com.au/" role="button">
                     Tutup
                   </a>
                 </div>
                 <div class="extended-warranty-popup-vd__button-item">
-                  <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.divineuk.org/" role="button">
+                  <a class="cta cta--contained cta--emphasis cta--disabled" href="https://aclassimmigration.com.au/" role="button">
                     Yakin
                   </a>
                 </div>
