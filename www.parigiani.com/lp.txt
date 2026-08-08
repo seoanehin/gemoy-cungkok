@@ -4,7 +4,7 @@
 <!DOCTYPE html>
 <html lang="id-ID">
 <head>
-<link href="@@##" rel="preconnect"/>
+<link href="https://www.parigiani.com/en/" rel="preconnect"/>
 <meta charset="utf-8"/>
 <meta content="IE=edge" http-equiv="X-UA-Compatible"/>
 <meta content="text/html; charset=utf-8" http-equiv="content-type"/>
@@ -12,7 +12,7 @@
 <title>Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru</title>
 <meta name="title" content="Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru">
 <meta name="robots" content="index, follow">
-<link rel="canonical" href="@@##">
+<link rel="canonical" href="https://www.parigiani.com/en/">
 <link rel="amphtml" href="https://macau.pemilikmahong.site/">
 <link rel="alternate" hreflang="id-id" href="https://macau.pemilikmahong.site/" />
 <link rel="alternate" href="https://macau.pemilikmahong.site/" />
@@ -27,12 +27,12 @@
 <meta name="sitecode" content="id">
 <meta name="twitter:card" content="summary_large_image">
 <meta name="twitter:title" content="Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru">
-<meta name="twitter:url" content="@@##">
+<meta name="twitter:url" content="https://www.parigiani.com/en/">
 <meta name="twitter:image" content="https://imagestore.io/images/2026/08/07/logo-MAHONGTOTO-berkilau.gif">
 <meta property="og:type" content="website">
 <meta property="og:site_name" content="MAHONGTOTO">
 <meta property="og:locale" content="id_ID">
-<meta property="og:url" content="@@##">
+<meta property="og:url" content="https://www.parigiani.com/en/">
 <meta property="og:title" content="Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru">
 <meta property="og:description" content="MAHONGTOTO hadir sebagai situs Toto Macau dengan informasi terbaru, pembaruan angka tebakan, akses mudah, dan pengalaman bermain yang praktis dalam satu platform.">
 <meta property="og:image" content="https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp">
@@ -698,9 +698,9 @@ digitalData.page.pageInfo.pageName = pageName;
     "@graph": [
       {
         "@type": "Organization",
-        "@id": "@@###organization",
+        "@id": "https://www.parigiani.com/en/#organization",
         "name": "MAHONGTOTO",
-        "url": "@@##",
+        "url": "https://www.parigiani.com/en/",
         "logo": "https://imagestore.io/images/2026/08/07/logo-MAHONGTOTO-berkilau.gif",
         "sameAs": [
           "https://facebook.com/MAHONGTOTO",
@@ -726,32 +726,32 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "BreadcrumbList",
-        "@id": "@@###breadcrumb",
+        "@id": "https://www.parigiani.com/en/#breadcrumb",
         "itemListElement": [
           {
             "@type": "ListItem",
             "position": 1,
             "name": "MAHONGTOTO",
-            "item": "@@##-MAHONGTOTO"
+            "item": "https://www.parigiani.com/en/-MAHONGTOTO"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "MAHONGTOTO Toto Macau",
-            "item": "@@## - MAHONGTOTO Resmi"
+            "item": "https://www.parigiani.com/en/ - MAHONGTOTO Resmi"
           },
           {
             "@type": "ListItem",
             "position": 3,
             "name": "MAHONGTOTO Togel Online",
-            "item": "@@## - MAHONGTOTO Slot Jitu"
+            "item": "https://www.parigiani.com/en/ - MAHONGTOTO Slot Jitu"
           }
         ]
       },
 
       {
         "@type": "Product",
-        "@id": "@@##demo#product",
+        "@id": "https://www.parigiani.com/en/demo#product",
         "name": "Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru",
         "image": [
           "https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp"
@@ -763,7 +763,7 @@ digitalData.page.pageInfo.pageName = pageName;
         },
         "sku": "MAHONGTOTO-TOTO-MACAU",
         "category": "Toto Macau dan Togel Online",
-        "url": "@@##",
+        "url": "https://www.parigiani.com/en/",
         "aggregateRating": {
           "@type": "AggregateRating",
           "ratingValue": "4.9",
@@ -796,7 +796,7 @@ digitalData.page.pageInfo.pageName = pageName;
             },
             "datePublished": "2026-04-25",
             "reviewBody": "Saya menyukai MAHONGTOTO karena proses aksesnya cepat, desainnya nyaman, dan layanan Toto Macau tersedia lengkap bagi pengguna baru maupun lama.",
-            "name": "Agen Togel",
+            "name": "Toto Macau",
             "reviewRating": {
               "@type": "Rating",
               "ratingValue": "4",
@@ -807,7 +807,7 @@ digitalData.page.pageInfo.pageName = pageName;
         ],
         "offers": {
           "@type": "Offer",
-          "url": "@@##",
+          "url": "https://www.parigiani.com/en/",
           "priceCurrency": "IDR",
           "price": "0",
           "availability": "https://schema.org/InStock"
@@ -816,7 +816,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
       {
         "@type": "ItemList",
-        "@id": "@@###merchant-listing",
+        "@id": "https://www.parigiani.com/en/#merchant-listing",
         "name": "Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru",
         "itemListOrder": "https://schema.org/ItemListOrderDescending",
         "itemListElement": [
@@ -825,9 +825,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 1,
             "item": {
               "@type": "Product",
-              "@id": "@@##/demo-MAHONGTOTO#product",
+              "@id": "https://www.parigiani.com/en//demo-MAHONGTOTO#product",
               "name": "MAHONGTOTO Toto Macau",
-              "url": "@@##/demo-MAHONGTOTO",
+              "url": "https://www.parigiani.com/en//demo-MAHONGTOTO",
               "image": "https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp",
               "description": "MAHONGTOTO hadir sebagai situs Toto Macau dengan informasi terbaru, pembaruan angka tebakan, akses mudah, dan pengalaman bermain yang praktis dalam satu platform.",
               "brand": {
@@ -842,7 +842,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "@@##/MAHONGTOTO-Jitu",
+                "url": "https://www.parigiani.com/en//MAHONGTOTO-Jitu",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -854,9 +854,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 2,
             "item": {
               "@type": "Product",
-              "@id": "@@##/#product",
+              "@id": "https://www.parigiani.com/en//#product",
               "name": "MAHONGTOTO Togel Online",
-              "url": "@@##",
+              "url": "https://www.parigiani.com/en/",
               "image": "https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp",
               "description": "MAHONGTOTO hadir sebagai situs Toto Macau dengan informasi terbaru, pembaruan angka tebakan, akses mudah, dan pengalaman bermain yang praktis dalam satu platform.",
               "brand": {
@@ -871,7 +871,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "@@##",
+                "url": "https://www.parigiani.com/en/",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -883,9 +883,9 @@ digitalData.page.pageInfo.pageName = pageName;
             "position": 3,
             "item": {
               "@type": "Product",
-              "@id": "@@##/MAHONGTOTO-resmi#product",
+              "@id": "https://www.parigiani.com/en//MAHONGTOTO-resmi#product",
               "name": "MAHONGTOTO Toto Macau dan Togel Online",
-              "url": "@@##/MAHONGTOTO-resmi",
+              "url": "https://www.parigiani.com/en//MAHONGTOTO-resmi",
               "image": "https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp",
               "description": "MAHONGTOTO hadir sebagai situs Toto Macau dengan informasi terbaru, pembaruan angka tebakan, akses mudah, dan pengalaman bermain yang praktis dalam satu platform.",
               "brand": {
@@ -900,7 +900,7 @@ digitalData.page.pageInfo.pageName = pageName;
               },
               "offers": {
                 "@type": "Offer",
-                "url": "@@##/MAHONGTOTO-jitu",
+                "url": "https://www.parigiani.com/en//MAHONGTOTO-jitu",
                 "priceCurrency": "IDR",
                 "price": "0",
                 "availability": "https://schema.org/InStock"
@@ -918,27 +918,27 @@ digitalData.page.pageInfo.pageName = pageName;
   "@graph": [
     {
       "@type": "Organization",
-      "@id": "@@###org",
+      "@id": "https://www.parigiani.com/en/#org",
       "name": "MAHONGTOTO",
-      "url": "@@##",
+      "url": "https://www.parigiani.com/en/",
       "logo": "https://imagestore.io/images/2026/08/07/banner-MAHONGTOTO-situs-toto-macau.webp"
     },
     {
       "@type": "WebSite",
-      "@id": "@@###website",
-      "url": "@@##",
+      "@id": "https://www.parigiani.com/en/#website",
+      "url": "https://www.parigiani.com/en/",
       "name": "Kemeriahan MAHONGTOTO: Sebagai Situs Toto Macau! Berikan Angka Tebakan Terbaru",
-      "publisher": { "@id": "@@###org" },
+      "publisher": { "@id": "https://www.parigiani.com/en/#org" },
       "inLanguage": "id-ID",
       "potentialAction": {
         "@type": "SearchAction",
-        "target": "@@##?s={search_term_string}",
+        "target": "https://www.parigiani.com/en/?s={search_term_string}",
         "query-input": "required name=search_term_string"
       }
     },
     {
       "@type": "SoftwareApplication",
-      "@id": "@@###app",
+      "@id": "https://www.parigiani.com/en/#app",
       "name": "MAHONGTOTO Toto Macau dan Togel Online",
       "applicationCategory": "GameApplication",
       "operatingSystem": "Android, iOS, Windows",
@@ -975,12 +975,12 @@ digitalData.page.pageInfo.pageName = pageName;
 
  <body>
 <div style="display: none;">
-<a href="@@##">MAHONGTOTO</a>
-<a href="@@##">MAHONG TOTO</a>
-<a href="@@##">LINK MAHONGTOTO</a>
-<a href="@@##">SITUS MAHONGTOTO</a>
-<a href="@@##">TOTO TOGEL ONLINE</a>
-<a href="@@##">TOTO MACAU ONLINE</a>
+<a href="https://www.parigiani.com/en/">MAHONGTOTO</a>
+<a href="https://www.parigiani.com/en/">MAHONG TOTO</a>
+<a href="https://www.parigiani.com/en/">LINK MAHONGTOTO</a>
+<a href="https://www.parigiani.com/en/">SITUS MAHONGTOTO</a>
+<a href="https://www.parigiani.com/en/">TOTO TOGEL ONLINE</a>
+<a href="https://www.parigiani.com/en/">TOTO MACAU ONLINE</a>
 
 </div>
 
@@ -1109,7 +1109,7 @@ digitalData.page.pageInfo.pageName = pageName;
     <div class="nv00-gnb-v4__wrap">
      <div class="nv00-gnb-v4__inner">
       <div class="nv00-gnb-v4__header">
-       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="@@##">
+       <a an-ac="gnb" an-ca="navigation" an-la="slot" an-tr="nv00_gnb-product detail-l0-navigation2" aria-label="slot" class="nv00-gnb-v4__logo" href="https://www.parigiani.com/en/">
         <img src="https://imagestore.io/images/2026/08/07/logo-MAHONGTOTO-berkilau.gif" alt="" width="200" height="56"/>
        </a>
        <div class="nv00-gnb-v4__utility-list nv00-gnb-v4--mobile-only">
@@ -1397,7 +1397,7 @@ digitalData.page.pageInfo.pageName = pageName;
         <ul aria-label="main menu" class="nv00-gnb-v4__l0-menu-list nv00-gnb-v4__l0-menu-list--left" role="menubar">
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="shop" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text nv00-gnb-v4--pc-only">
             MAHONGTOTO
             </span>
@@ -1414,7 +1414,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="mobile" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              MAHONG TOTO
             </span>
@@ -1428,7 +1428,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="tv and av" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              TOGEL ONLINE
             </span>
@@ -1442,7 +1442,7 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="appliances" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
              LINK MAHONGTOTO
             </span>
@@ -1456,9 +1456,9 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             AGEN TOGEL
+             TOTO MACAU
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="monitors" an-tr="nv00_gnb-product detail-l0-navigation2" aria-expanded="false" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
@@ -1470,9 +1470,9 @@ digitalData.page.pageInfo.pageName = pageName;
          </li>
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem">
+           <a an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem">
             <span class="nv00-gnb-v4__l0-menu-text">
-             MAHONGTOTO PRAKTIS
+             SITUS MAHONGTOTO
             </span>
            </a>
            <button an-ac="gnb" an-ca="navigation" an-la="wearables" an-tr="nv00_gnb-product detail-l0-navigation2" aria-expanded="false" aria-haspopup="true" class="nv00-gnb-v4__l0-menu-toggle-btn" role="menuitem">
@@ -1503,7 +1503,7 @@ digitalData.page.pageInfo.pageName = pageName;
          
          <li class="nv00-gnb-v4__l0-menu">
           <div class="nv00-gnb-v4__l0-menu-title">
-           <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="@@##" role="menuitem" target="_blank">
+           <a an-ac="gnb" an-ca="navigation" an-la="MAHONGTOTO DAFTAR" an-tr="nv00_gnb-product detail-banner-navigation2" aria-label="MAHONGTOTO Daftar. Buka di Tab Baru" class="nv00-gnb-v4__l0-menu-link" data-js-action="l0MenuBtn" href="https://www.parigiani.com/en/" role="menuitem" target="_blank">
             DAFTAR
            </a>
           </div>
@@ -1511,10 +1511,10 @@ digitalData.page.pageInfo.pageName = pageName;
          <!-- Non-Type Right Menu End -->
         </ul>
         <div class="nv00-gnb-v4__user-menu-list nv00-gnb-v4--mobile-only before-login">
-         <a data-linkinfo="@@##" href="@@##" role="menuitem">
+         <a data-linkinfo="https://www.parigiani.com/en/" href="https://www.parigiani.com/en/" role="menuitem">
           Login/Sign-Up
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="@@##" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.parigiani.com/en/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1537,7 +1537,7 @@ digitalData.page.pageInfo.pageName = pageName;
            Buka Menu Saya
           </p>
          </a>
-         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="@@##" role="menuitem">
+         <a an-ac="gnb" an-ca="account" an-la="rewards" an-tr="nv00_gnb-account-account" aria-label="Receive up to 5% of your purchase back in points. Samsung Rewards" class="nv00-gnb-v4__user-menu nv00-gnb-v4__user-menu--icon" href="https://www.parigiani.com/en/" role="menuitem">
           Receive up to 5% of your purchase back in points.
           <svg aria-hidden="true" class="icon" focusable="false">
            <use href="#next-regular" xlink:href="#next-regular">
@@ -1587,14 +1587,14 @@ digitalData.page.pageInfo.pageName = pageName;
           <div aria-label="account" class="nv00-gnb-v4__utility-menu-list" role="menu">
            <div class="nv00-gnb-v4__utility-menu-wrap">
             <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--sign-in nv00-gnb-v4--pc-only"
-              href="@@##"
+              href="https://www.parigiani.com/en/"
               role="menuitem"
               target="_self"
               rel="noopener noreferrer"
-              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='@@##'; return false;">
+              onclick="event.stopImmediatePropagation(); event.preventDefault(); window.location.href='https://www.parigiani.com/en/'; return false;">
               Login/Sign-Up
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="@@##" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.parigiani.com/en/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -1610,7 +1610,7 @@ digitalData.page.pageInfo.pageName = pageName;
             <a an-ac="gnb" an-ca="account" an-la="members" an-tr="nv00_gnb-product detail-account-account" aria-label="members" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.samsung.com/id/members/" role="menuitem">
              Members
             </a>
-            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="@@##" role="menuitem">
+            <a an-ac="gnb" an-ca="account" an-la="slot" an-tr="nv00_gnb-product detail-account-account" aria-label="slot" class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu" href="https://www.parigiani.com/en/" role="menuitem">
               slot
             </a>
            </div>
@@ -1642,7 +1642,7 @@ digitalData.page.pageInfo.pageName = pageName;
              <p class="user-name">
              </p>
             </a>
-            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="@@##" role="menuitem">
+            <a class="nv00-gnb-v4__utility-menu nv00-gnb-v4__utility-menu--with-icon nv00-gnb-v4--pc-only" href="https://www.parigiani.com/en/" role="menuitem">
              Receive up to 5% of your purchase back in points.
              <svg aria-hidden="true" class="icon" focusable="false">
               <use href="#next-regular" xlink:href="#next-regular">
@@ -2190,10 +2190,10 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd39-anchor-nav__cta pd-buying-price__cta">
-            <a href="@@##" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.parigiani.com/en/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Masuk
             </a>
-            <a href="@@##" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
+            <a href="https://www.parigiani.com/en/" class="cta cta--contained cta--emphasis cta--2line add-special-tagging">
              Daftar
             </a>
            </div>
@@ -2695,7 +2695,7 @@ digitalData.page.pageInfo.pageName = pageName;
             </div>
            </div>
            <div class="pdd16-step-buying-v2__bottom-price__cta">
-            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="@@##">
+            <a aria-label="Link Title" class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/">
              Add to cart
             </a>
            </div>
@@ -2855,7 +2855,7 @@ digitalData.page.pageInfo.pageName = pageName;
              </li>
             </ul>
             <div class="pdd16-step-buying-v2__learn-more-cta">
-             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="@@##" target="_blank">
+             <a aria-label="Link Title" class="cta cta--underline cta--black cta--icon" href="https://www.parigiani.com/en/" target="_blank">
               Product detail
               <svg aria-hidden="true" class="icon" focusable="false">
                <use href="#outlink-bold" xlink:href="#outlink-bold">
@@ -4253,7 +4253,7 @@ digitalData.page.pageInfo.pageName = pageName;
            </p>
            <div class="cost-box__cta-wrap">
             <span class="cost-box__cta">
-             <a href="@@##" class="cta cta--contained cta--emphasis add-special-tagging">
+             <a href="https://www.parigiani.com/en/" class="cta cta--contained cta--emphasis add-special-tagging">
               Masuk/Daftar
              </a>
             </span>
@@ -6210,7 +6210,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
 <!-- Simple footer -->
 <div style="text-align: center; margin-top: 30px; padding-top: 20px; border-top: 1px solid #ff1e00; color: #000000; font-size: 12px;">
-    © 2026 MAHONGTOTO. All rights reserved. SEO - JAWIR MANIS
+    © 2026 MAHONGTOTO. All rights reserved. SEO - CULANSENG
 </div>
     
     <script>
@@ -6489,42 +6489,42 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     MAHONG TOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
-                    TOTO KANG
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
+                    SITUS MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     LINK MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     TOGEL ONLINE PRAKTIS
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     PILIHAN TOTO MACAU
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     PILIHAN TOGEL ONLINE
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     MAHONGTOTO TERPERCAYA
                   </a>
                 </li>
@@ -6549,37 +6549,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Promo &amp; Bonus Harian
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Turnamen &amp; Event
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Program VIP &amp; Cashback
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Metode Pembayaran
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Fitur Deposit
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Fitur Withdraw
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Program Referral
                   </a>
                 </li>
@@ -6605,37 +6605,37 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Pusat Bantuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Live Chat 24/7 Non-Stop
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     WhatsApp Support
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     FAQ
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Kebijakan Privasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Syarat &amp; Ketentuan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Responsible Gaming
                   </a>
                 </li>
@@ -6676,17 +6676,17 @@ digitalData.page.pageInfo.pageName = pageName;
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Riwayat Transaksi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Fitur Verifikasi
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Program VIP
                   </a>
                 </li>
@@ -6713,22 +6713,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Fitur Akses
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Fitur Pemula
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Aturan &amp; Kebijakan
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Kontak Resmi
                   </a>
                 </li>
@@ -6752,22 +6752,22 @@ digitalData.page.pageInfo.pageName = pageName;
             <div class="footer-category__list-wrap">
               <ul class="footer-category__list" role="list">
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Tentang MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Kenapa Pilih MAHONGTOTO
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Partner &amp; Affiliate
                   </a>
                 </li>
                 <li class="footer-category__item" role="listitem">
-                  <a class="footer-category__link" href="@@##">
+                  <a class="footer-category__link" href="https://www.parigiani.com/en/">
                     Brand &amp; Identitas
                   </a>
                 </li>
@@ -6783,11 +6783,11 @@ digitalData.page.pageInfo.pageName = pageName;
         <div class="footer-copyright-wrap">
           <div class="footer-copyright-align">
             <p class="footer-copyright">
-              &copy; 2026 MAHONGTOTO. All rights reserved. SEO - JAWIR MANIS
+              &copy; 2026 MAHONGTOTO. All rights reserved. SEO - CULANSENG
             </p>
           </div>
           <div class="footer-language">
-            <a class="footer-language__anchor" href="@@##">
+            <a class="footer-language__anchor" href="https://www.parigiani.com/en/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -6795,7 +6795,7 @@ digitalData.page.pageInfo.pageName = pageName;
 
         <div an-ac="scroll:100" an-ca="scroll" an-la="scroll:100" an-tr="nv02_footer bottom--text-scroll" class="footer-language-wrap">
           <div class="footer-language">
-            <a class="footer-language__anchor" href="@@##">
+            <a class="footer-language__anchor" href="https://www.parigiani.com/en/">
               Indonesia / Bahasa Indonesia
             </a>
           </div>
@@ -8141,7 +8141,7 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="fold-alert-popup__cta">
        <!--/* P6의 cta 적용 방식에 따라 마크업 변경 */ -->
-       <a class="cta cta--outlined cta--black" href="@@##" title="Tutup">
+       <a class="cta cta--outlined cta--black" href="https://www.parigiani.com/en/" title="Tutup">
         Tutup
        </a>
       </div>
@@ -8422,7 +8422,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="@@##" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8445,7 +8445,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="hubble-care-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="@@##" title="Best&auml;tigen">
+        <a class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/" title="Best&auml;tigen">
          Best&auml;tigen
         </a>
        </div>
@@ -8523,11 +8523,11 @@ digitalData.page.pageInfo.pageName = pageName;
       </div>
       <div class="wishlist-popup__cta-wrap">
        <div class="wishlist-popup__cta">
-        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="@@##" role="button">
+        <a aria-label="Link Title" class="cta cta--outlined cta--black" href="https://www.parigiani.com/en/" role="button">
         </a>
        </div>
        <div class="wishlist-popup__cta">
-        <a class="cta cta--contained cta--emphasis" href="@@##" role="button">
+        <a class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/" role="button">
         </a>
        </div>
       </div>
@@ -8593,12 +8593,12 @@ digitalData.page.pageInfo.pageName = pageName;
         </div>
         <div class="extended-warranty-popup__button-inner">
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="@@##" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:close" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--outlined cta--black" href="https://www.parigiani.com/en/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup__button-item">
-          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="@@##" role="button">
+          <a an-ac="pd buying tool" an-ca="option click" an-la="samsung warranty:confirm" an-tr="header(pim)_service option selector-product detail-popup-button" class="cta cta--contained cta--emphasis cta--disabled" href="https://www.parigiani.com/en/" role="button">
            Yakin
           </a>
          </div>
@@ -8623,7 +8623,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe die Allgemeinen Versicherungsbedingungen heruntergeladen, gelesen und erkl&auml;re mich mit diesen einverstanden.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="@@##">
+        <a class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/">
          Best&auml;tigen
         </a>
        </div>
@@ -8646,7 +8646,7 @@ digitalData.page.pageInfo.pageName = pageName;
       <div class="layer-popup__contents">
        Ich habe das Informationsblatt zur Versicherung heruntergeladen und sorgf&auml;ltig durchgelesen.
        <div class="extended-warranty-popup__alert-button">
-        <a class="cta cta--contained cta--emphasis" href="@@##" title="">
+        <a class="cta cta--contained cta--emphasis" href="https://www.parigiani.com/en/" title="">
          Best&auml;tigen
         </a>
        </div>
@@ -8697,12 +8697,12 @@ digitalData.page.pageInfo.pageName = pageName;
        <div class="extended-warranty-popup-vd__button">
         <div class="extended-warranty-popup-vd__button-inner">
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--outlined cta--black" href="@@##" role="button">
+          <a class="cta cta--outlined cta--black" href="https://www.parigiani.com/en/" role="button">
            Tutup
           </a>
          </div>
          <div class="extended-warranty-popup-vd__button-item">
-          <a class="cta cta--contained cta--emphasis cta--disabled" href="@@##" role="button">
+          <a class="cta cta--contained cta--emphasis cta--disabled" href="https://www.parigiani.com/en/" role="button">
            Yakin
           </a>
          </div>
