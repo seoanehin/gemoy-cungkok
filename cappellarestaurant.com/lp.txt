@@ -2942,7 +2942,7 @@ body {
                                         <strong>303</strong> sales
                                     </div>
                                     <div class="item-header__envato-highlighted" bis_skin_checked="1">
-                                        <strong>MAHONGTOTO X PAPAZOLA</strong>
+                                        <strong>MAHONGTOTO X CULANSENG TEAM</strong>
                                         <svg width="16px" height="16px" viewBox="0 0 1414" class="item-header__envato-checkmark-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title></title>
                                             <path fill-rule="evenodd" clip-rule="evenodd"
