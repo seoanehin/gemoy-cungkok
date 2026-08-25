@@ -36,7 +36,7 @@
     <title>MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026</title>
     <meta name="description" content="MAHONGTOTO menjadi portal digital yang menghadirkan informasi dan layanan online dalam satu akses praktis. Nikmati navigasi cepat, tampilan responsif, serta pembaruan informasi MAHONGTOTO sepanjang 2026.">
     <meta name="google-site-verification" content="JhEb25iFTRU8S327qwFdbChyr8cBIR5_cKIa0tA3Rus" />
-    <link rel="canonical" href="https://cappellarestaurant.com/">
+    <link rel="canonical" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
 	  <link rel="amphtml" href="https://cappellarestaurant.mahongtoto.online/" />
     <link rel="alternate" hreflang="id-id" href="https://cappellarestaurant.mahongtoto.online/"/>
     <link rel="alternate" href="https://cappellarestaurant.mahongtoto.online/"/>
@@ -67,10 +67,10 @@
   },
   "sku": "MAHONGTOTO",
   "mpn": "77GCR-001",
-  "url": "https://cappellarestaurant.com/",
+  "url": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/",
   "offers": {
     "@type": "Offer",
-    "url": "https://cappellarestaurant.com/",
+    "url": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2026-12-12",
@@ -171,31 +171,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "MAHONGTOTO",
-      "item": "https://cappellarestaurant.com/"
+      "item": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "MAHONGTOTO LOGIN",
-      "item": "https://cappellarestaurant.com/"
+      "item": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "MAHONGTOTO RESMI",
-      "item": "https://cappellarestaurant.com/"
+      "item": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "MAHONGTOTO ALTERNATIF",
-      "item": "https://cappellarestaurant.com/"
+      "item": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "MAHONGTOTO LINK ALTERNATIF",
-      "item": "https://cappellarestaurant.com/"
+      "item": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"
     }
   ]
 }
@@ -205,7 +205,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "MAHONGTOTO",
-  "url": "https://cappellarestaurant.com/",
+  "url": "https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/",
   "logo": "https://imagestore.io/images/2026/08/25/logo-portal-digital-MAHONGTOTO.webp",
   "sameAs": [
     "https://www.facebook.com/MAHONGTOTO",
@@ -233,7 +233,7 @@
     <meta property="og:description" content="MAHONGTOTO menjadi portal digital yang menghadirkan informasi dan layanan online dalam satu akses praktis. Nikmati navigasi cepat, tampilan responsif, serta pembaruan informasi MAHONGTOTO sepanjang 2026.">
     <meta property="og:image" content="https://imagestore.io/images/2026/08/25/img-portal-digital-MAHONGTOTO.webp" />
     <meta property="og:image:alt" content="MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026" />
-    <meta property="og:url" content="https://cappellarestaurant.com/">
+    <meta property="og:url" content="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
     <meta property="og:type" content="website">
     <meta name="twitter:card" content="summary_large_image" />
     <meta name="twitter:title" content="MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026" />
@@ -242,7 +242,7 @@
     <meta name="twitter:image:alt" content="MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026" />
     <meta property="og:title" content="MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="https://cappellarestaurant.com/">
+    <meta property="og:url" content="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
     <meta property="og:image" content="https://imagestore.io/images/2026/08/25/img-portal-digital-MAHONGTOTO.webp" />
     <meta property="og:image:alt" content="MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026" />
     <meta property="og:description" content="MAHONGTOTO menjadi portal digital yang menghadirkan informasi dan layanan online dalam satu akses praktis. Nikmati navigasi cepat, tampilan responsif, serta pembaruan informasi MAHONGTOTO sepanjang 2026.">
@@ -1126,11 +1126,11 @@
 
 <body class="color-scheme-light" data-view="app impressionTracker" data-responsive="true" data-user-signed-in="false" __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true" bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
 <div style="display:none" data-nosnippet="true">
-<a href="https://cappellarestaurant.com/">MAHONGTOTO</a>
-<a href="https://cappellarestaurant.com/">SITUS TOTO</a>
-<a href="https://cappellarestaurant.com/">TOTO TOGEL</a>
-<a href="https://cappellarestaurant.com/">SITUS TOTO TOGEL</a>
-<a href="https://cappellarestaurant.com/">TOTO 4D</a>
+<a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO</a>
+<a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">SITUS TOTO</a>
+<a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">TOTO TOGEL</a>
+<a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">SITUS TOTO TOGEL</a>
+<a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">TOTO 4D</a>
 </div>
     
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==">
@@ -1215,7 +1215,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="https://cappellarestaurant.com/">EnvatoMarket</a>
+                    <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1223,40 +1223,40 @@
                         Web Themes &amp; Templates
                     </span>
 
-                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://cappellarestaurant.com/"></a>
+                    <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown" data-dropdown-target=".off-canvas-left__sites" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/">
+                    <a class="off-canvas-left__site" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1265,7 +1265,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="https://cappellarestaurant.com/" accept-charset="UTF-8" method="get">
+                    <form id="search" action="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search" class="search-field__input-field">
@@ -1280,393 +1280,393 @@
                 <ul>
 
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-all-items" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Featured Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Top New Files</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Top New Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Follow Feed</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Follow Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Top Authors</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Top Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Top New
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Public Collections</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Public Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">View All Categories</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">View All Categories</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-wordpress" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Blog /
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">BuddyPress</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">BuddyPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Directory &amp; Listings</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Directory &amp; Listings</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">eCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Education</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Education</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Elementor</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Elementor</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Mobile</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Nonprofit</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Real
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Real
                                     Estate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Miscellaneous</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">WordPress Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-elementor" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
-                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Template Kits</a></li>
+                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Template Kits</a></li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Plugins</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Plugins</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Themes</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Hosting
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Admin Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Admin Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Corporate</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Corporate</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Creative</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Creative</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Mobile</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Mobile</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Nonprofit</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Personal</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Personal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Retail</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Retail</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Specialty Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Specialty Pages</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Wedding</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Wedding</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-shopify" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Fashion</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Fashion</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Shopping</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Health &amp; Beauty</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Health &amp; Beauty</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Technology</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Technology</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Entertainment</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Entertainment</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Jamstack
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-marketing" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Marketing
                         </a><ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Email Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Email Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Landing Pages</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Unbounce Landing Pages</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all CMS</a></li><li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all CMS</a></li><li>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Concrete5</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Concrete5</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Drupal</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">HubSpot CMS Hub</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">HubSpot CMS Hub</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Joomla</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">MODX
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MODX
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Moodle</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Moodle</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Webflow</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Webflow</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Weebly</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Weebly</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ecommerce" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Show all
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Show all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">WooCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">WooCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">BigCommerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Drupal Commerce</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Drupal Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Easy Digital Downloads</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Easy Digital Downloads</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Ecwid</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Ecwid</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Magento</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Magento</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">OpenCart</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">OpenCart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">PrestaShop</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">PrestaShop</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Shopify</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Ubercart</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Ubercart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">VirtueMart</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Zen
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Zen
                                     Cart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Miscellaneous</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Miscellaneous</a>
                             </li>
                         </ul></li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-ui-templates" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Popular Items</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Popular Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Figma</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Adobe
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Adobe
                                     XD</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Photoshop</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Photoshop</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Sketch</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link--empty" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             Plugins
                         </a>
                     </li>
                     <li>
-                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://cappellarestaurant.com/">
+                        <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Blogging</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Blogging</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Courses</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Courses</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Facebook Templates</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Free Elementor Templates</a>
+                            <li><a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Free Elementor Templates</a>
                             </li><li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Free
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Forums</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Ghost
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Ghost
                                     Themes</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/">Tumblr</a>
+                                <a class="off-canvas-category-link--sub" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="https://cappellarestaurant.com/">Unlimited
+                                    href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1676,7 +1676,7 @@
                     <li>
                         <a class="elements-nav__category-link external-link" target="_blank" data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="https://cappellarestaurant.com/">Unlimited
+                            href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1688,7 +1688,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="https://cappellarestaurant.com/">
+                <a class="off-canvas-right__link--cart" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1713,7 +1713,7 @@
                         <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                             <div class="header-mini" bis_skin_checked="1">
                                 <div class="header-mini__button--cart" bis_skin_checked="1">
-                                    <a class="btn btn--square" href="https://cappellarestaurant.com/">
+                                    <a class="btn btn--square" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                         <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                             <title>Cart</title>
                                             <path
@@ -1730,21 +1730,21 @@
                                     </a>
                                 </div>
                                 <div class="header-mini__button--account" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://cappellarestaurant.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                         <i class="e-icon -icon-person"></i>
                                         <span class="is-hidden">Account</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__button--categories" bis_skin_checked="1">
-                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://cappellarestaurant.com/">
+                                    <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                         <i class="e-icon -icon-hamburger"></i>
                                         <span class="is-hidden">Sites, Search &amp; Categories</span>
                                     </a>
                                 </div>
 
                                 <div class="header-mini__logo" bis_skin_checked="1">
-                                    <a href="https://cappellarestaurant.com/">
+                                    <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                         <img alt="Logo Baru" src="https://imagestore.io/images/2026/08/25/logo-portal-digital-MAHONGTOTO.webp" style="height:40px; width:auto; display:inline-block;">
                                     </a>
                                 </div>
@@ -1759,19 +1759,19 @@
 
                             <div class="grid-container -layout-wide" bis_skin_checked="1">
                                 <div class="global-header__wrapper" bis_skin_checked="1">
-                                    <a href="https://cappellarestaurant.com/">
+                                    <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                         <img height="50" alt="Envato Market" class="global-header__logo" src="https://imagestore.io/images/2026/08/25/logo-portal-digital-MAHONGTOTO.webp">
                                     </a>
                                     <nav class="global-header-menu" role="navigation">
                                         <ul class="global-header-menu__list">
                                             <li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://cappellarestaurant.com/">
+                                                <a class="global-header-menu__link" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                                     <span class="global-header-menu__link-text">
                                                         MAHONGTOTO
                                                     </span>
                                                 </a>
                                             </li><li class="global-header-menu__list-item">
-                                                <a class="global-header-menu__link" href="https://cappellarestaurant.com/">
+                                                <a class="global-header-menu__link" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                                     <span class="global-header-menu__link-text">
                                                         MAHONGTOTO ALTERNATIF
                                                     </span>
@@ -1793,7 +1793,7 @@
                                                         DAFTAR
                                                     </span>
                                                 </a>
-                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://cappellarestaurant.com/">
+                                                </li><li class="global-header-menu__list-item -background-light -border-radius"><a id="spec-link-cart" class="global-header-menu__link h-pr1" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
 
                                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="global-header-menu__icon global-header-menu__icon-cart" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                                         <title>Cart</title>
@@ -2894,13 +2894,13 @@ body {
                         <div class="grid-container " bis_skin_checked="1">
                             <nav class="breadcrumbs h-text-truncate  ">
 
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO</a>
-                                <a href="https://cappellarestaurant.com/" class="js-breadcrumb-category">MAHONGTOTO LOGIN</a>
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO RESMI</a>
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO ALTERNATIF</a>
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO LINK</a>
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO LINK ALTERNATIF</a>
-                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/">MAHONGTOTO LOGIN LINK ALTERNATIF</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO</a>
+                                <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/" class="js-breadcrumb-category">MAHONGTOTO LOGIN</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO RESMI</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO ALTERNATIF</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO LINK</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO LINK ALTERNATIF</a>
+                                <a class="js-breadcrumb-category" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO LOGIN LINK ALTERNATIF</a>
                             </nav>
 
                             <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -2928,7 +2928,7 @@ body {
 
                                 <div class="item-header__details-section" bis_skin_checked="1">
                                     <div class="item-header__author-details" bis_skin_checked="1">
-                                        By <a rel="author" class="js-by-author" href="https://cappellarestaurant.com/">MAHONGTOTO</a>
+                                        By <a rel="author" class="js-by-author" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">MAHONGTOTO</a>
                                     </div>
                                     <div class="item-header__sales-count" bis_skin_checked="1">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon" xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
@@ -2958,7 +2958,7 @@ body {
                             <!-- Desktop Item Navigation -->
                             <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                                 <ul>
-                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://cappellarestaurant.com/">Item Details</a>
+                                    <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">Item Details</a>
                                     </li>
                                     <li><a class="js-item-navigation-reviews t-link -decoration-none" href=""><span>Reviews</span><span>
                                                 <div class="rating-detailed-small" bis_skin_checked="1">
@@ -3249,13 +3249,13 @@ body {
                         <ul class="item-bookmarking__left-icons" data-view="bookmarkStatesLoader"><li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                                     <a title="Add to Favorites" data-view="modalAjax"
-                                                        href="https://cappellarestaurant.com/"><span
+                                                        href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><span
                                                             class="item-bookmarking__control--label">Add to
                                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
-                                <span><a title="Add to Collection" data-view="modalAjax"href="https://cappellarestaurant.com/">
+                                <span><a title="Add to Collection" data-view="modalAjax"href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                                         <span class="item-bookmarking__control--label">Add to
                                                             Collection</span></a>
                                 </span>
@@ -3331,7 +3331,7 @@ body {
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="https://cappellarestaurant.com/">
+                                <a class="item-description-toggle__link" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -3361,7 +3361,7 @@ body {
                         <div class="purchase-panel" bis_skin_checked="1">
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true" data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026&quot;,&quot;item_brand&quot;:&quot;tokopress&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="https://cappellarestaurant.com/" accept-charset="UTF-8" method="post">
+                                    action="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token" value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ" autocomplete="off">
                                     <div bis_skin_checked="1"><div data-view="itemVariantSelector" data-id="8988002" data-cookiebot-enabled="true" bis_skin_checked="1">
                                             <div class="purchase-form__selection" bis_skin_checked="1">
@@ -3392,7 +3392,7 @@ body {
                                                         </div>
                                                     </div><div class="flyout__link" bis_skin_checked="1">
                                                         <p class="t-body -size-m h-m0">
-                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://cappellarestaurant.com//licenses/standard">View
+                                                            <a class="t-link -decoration-reversed" target="_blank" href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news//licenses/standard">View
                                                                                         license details</a>
                                                         </p>
                                                     </div>
@@ -4002,7 +4002,7 @@ body {
 
     <h1>MAHONGTOTO | Portal Digital Pilihan dengan Layanan Online Terlengkap 2026</h1>
     <p>
-        Kemudahan, kecepatan, dan kenyamanan akses menjadi bagian penting dalam perkembangan layanan digital saat ini. Untuk menjawab kebutuhan tersebut, <a href="https://cappellarestaurant.com/"><strong>MAHONGTOTO</strong></a> hadir sebagai portal digital pilihan yang menggabungkan berbagai informasi dan layanan online dalam satu akses yang lebih praktis. Sepanjang 2026, MAHONGTOTO terus melakukan pembaruan sistem untuk menghadirkan navigasi yang cepat, tampilan responsif, serta penyajian informasi yang lebih terstruktur bagi setiap pengguna.
+        Kemudahan, kecepatan, dan kenyamanan akses menjadi bagian penting dalam perkembangan layanan digital saat ini. Untuk menjawab kebutuhan tersebut, <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>MAHONGTOTO</strong></a> hadir sebagai portal digital pilihan yang menggabungkan berbagai informasi dan layanan online dalam satu akses yang lebih praktis. Sepanjang 2026, MAHONGTOTO terus melakukan pembaruan sistem untuk menghadirkan navigasi yang cepat, tampilan responsif, serta penyajian informasi yang lebih terstruktur bagi setiap pengguna.
     </p>
     <h2>MAHONGTOTO Hadir dengan Sistem Digital yang Lebih Modern</h2>
     <p>
@@ -4010,11 +4010,11 @@ body {
     </p>
     <h2>Akses Cepat dan Navigasi yang Lebih Praktis</h2>
     <p>
-      Salah satu keunggulan yang dihadirkan <a href="https://cappellarestaurant.com/"><strong>Mahongtoto Login</strong></a> adalah sistem navigasi yang sederhana dan mudah dipahami. Struktur halaman dirancang untuk membantu pengguna berpindah dari satu bagian ke bagian lainnya dengan lebih cepat. Optimalisasi performa juga dilakukan secara berkala untuk menjaga kestabilan akses, termasuk ketika portal digunakan melalui jaringan dan perangkat yang berbeda.
+      Salah satu keunggulan yang dihadirkan <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>Mahongtoto Login</strong></a> adalah sistem navigasi yang sederhana dan mudah dipahami. Struktur halaman dirancang untuk membantu pengguna berpindah dari satu bagian ke bagian lainnya dengan lebih cepat. Optimalisasi performa juga dilakukan secara berkala untuk menjaga kestabilan akses, termasuk ketika portal digunakan melalui jaringan dan perangkat yang berbeda.
     </p>
     <h2>Tampilan Responsif untuk Smartphone dan Desktop</h2>
     <p>
-      Kenyamanan pengguna menjadi perhatian utama dalam pengembangan <a href="https://cappellarestaurant.com/"><strong>Portal Digital Mahongtoto</strong></a>. Tampilan responsif memungkinkan halaman menyesuaikan ukuran layar secara otomatis, baik saat dibuka menggunakan smartphone, tablet, laptop, maupun komputer desktop. Dengan desain yang ringan dan terorganisir, informasi penting dapat ditemukan dengan lebih mudah tanpa mengurangi kenyamanan saat menjelajahi halaman.
+      Kenyamanan pengguna menjadi perhatian utama dalam pengembangan <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>Portal Digital Mahongtoto</strong></a>. Tampilan responsif memungkinkan halaman menyesuaikan ukuran layar secara otomatis, baik saat dibuka menggunakan smartphone, tablet, laptop, maupun komputer desktop. Dengan desain yang ringan dan terorganisir, informasi penting dapat ditemukan dengan lebih mudah tanpa mengurangi kenyamanan saat menjelajahi halaman.
     </p>
     <h2>Informasi dan Layanan Online dalam Satu Portal</h2>
     <p>
@@ -4022,11 +4022,11 @@ body {
     </p>
     <h2>Pembaruan Informasi MAHONGTOTO Sepanjang 2026</h2>
     <p>
-      Sebagai bagian dari pengembangan layanan, <a href="https://cappellarestaurant.com/"><strong>Mahongtoto 2026</strong></a> terus menghadirkan pembaruan informasi serta peningkatan performa sistem secara berkala. Pembaruan tersebut bertujuan menjaga kualitas akses sekaligus menyesuaikan portal dengan perkembangan teknologi dan kebutuhan pengguna yang terus berubah.
+      Sebagai bagian dari pengembangan layanan, <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>Mahongtoto 2026</strong></a> terus menghadirkan pembaruan informasi serta peningkatan performa sistem secara berkala. Pembaruan tersebut bertujuan menjaga kualitas akses sekaligus menyesuaikan portal dengan perkembangan teknologi dan kebutuhan pengguna yang terus berubah.
     </p>
     <h2>Kemudahan Mengakses MAHONGTOTO Kapan Saja</h2>
     <p>
-      Pengguna dapat mengakses <a href="https://cappellarestaurant.com/"><strong>Link Mahongtoto</strong></a> secara fleksibel melalui perangkat yang terhubung ke internet tanpa memerlukan konfigurasi yang rumit. Sistem yang ringan, navigasi praktis, dan struktur halaman yang responsif membantu memberikan pengalaman penggunaan yang konsisten kapan pun informasi maupun layanan digital dibutuhkan.
+      Pengguna dapat mengakses <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>Link Mahongtoto</strong></a> secara fleksibel melalui perangkat yang terhubung ke internet tanpa memerlukan konfigurasi yang rumit. Sistem yang ringan, navigasi praktis, dan struktur halaman yang responsif membantu memberikan pengalaman penggunaan yang konsisten kapan pun informasi maupun layanan digital dibutuhkan.
     </p>
     <h3>Portal Digital Pilihan untuk Kebutuhan Online 2026</h3>
     <p>
@@ -4221,7 +4221,7 @@ body {
             Statistik &amp; Informasi
         </h2>
         <p class="mahongtoto-stat-subtitle">
-           Nikmati pengalaman digital yang lebih praktis bersama <a href="https://cappellarestaurant.com/"><strong>MAHONGTOTO</strong></a>, portal dengan akses cepat dan tampilan responsif. Temukan berbagai informasi dan layanan online terbaru 2026 dalam satu akses yang mudah, nyaman, dan efisien.
+           Nikmati pengalaman digital yang lebih praktis bersama <a href="https://cappellarestaurant.com/about-cappella-italian-restaurant-needham-ma/in-the-news/"><strong>MAHONGTOTO</strong></a>, portal dengan akses cepat dan tampilan responsif. Temukan berbagai informasi dan layanan online terbaru 2026 dalam satu akses yang mudah, nyaman, dan efisien.
         </p>
         <div class="mahongtoto-stat-live">
             <span class="mahongtoto-stat-live-dot"></span>
