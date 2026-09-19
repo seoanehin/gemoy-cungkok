@@ -6,7 +6,7 @@
   <title>LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang</title>
   <meta name="description" content="LANDAKTOTO merupakan platform situs slot gacor dengan Link APK Slot777 & Slot88 resmi yang menawarkan akses praktis, pilihan lengkap, dan pengalaman bermain yang mudah bagi pengguna yang mencari peluang kemenangan.">
   <meta name="robots" content="index,follow">
-  <link rel="canonical" href="https://mippci.gob.ve/">
+  <link rel="canonical" href="https://intergrate.mdtapah.gov.my/">
   <link rel="amphtml" href="https://uharu.landaktoto6d.com/">
   <link rel="alternate" href="https://uharu.landaktoto6d.com/" hreflang="id">
   <link rel="alternate" href="https://uharu.landaktoto6d.com/" hreflang="en">
@@ -22,7 +22,7 @@
   <meta property="og:type" content="product">
   <meta property="og:title" content="LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang">
   <meta property="og:description" content="LANDAKTOTO merupakan platform situs slot gacor dengan Link APK Slot777 & Slot88 resmi yang menawarkan akses praktis, pilihan lengkap, dan pengalaman bermain yang mudah bagi pengguna yang mencari peluang kemenangan.">
-  <meta property="og:url" content="https://mippci.gob.ve/">
+  <meta property="og:url" content="https://intergrate.mdtapah.gov.my/">
   <meta property="og:image" content="https://imgmarket.io/images/2026/09/19/banner-APK-Slot777-dan-Slot88-LANDAKTOTO.webp">
   <meta property="og:image:alt" content="LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang">
 <meta property="product:price:amount" content="5000">
@@ -41,7 +41,7 @@
           {
             "@type": "ListItem",
             "item": {
-              "@id": "https://mippci.gob.ve/",
+              "@id": "https://intergrate.mdtapah.gov.my/",
               "name": "LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang"
             },
             "position": 1
@@ -59,7 +59,7 @@
         "offers": {
           "@type": "http:\/\/schema.org\/Offer",
           "price": 9999,
-          "url": "https://mippci.gob.ve/",
+          "url": "https://intergrate.mdtapah.gov.my/",
           "priceCurrency": "IDR",
           "availability": "http:\/\/schema.org\/InStock"
         }
@@ -83,7 +83,7 @@
 "@context": "https://schema.org/",
 "@type": "Product",
 "name": "LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang",
-"url": "https://mippci.gob.ve/",
+"url": "https://intergrate.mdtapah.gov.my/",
 "sku": "LANDAKTOTO",
 "image": [
   "https://imgmarket.io/images/2026/09/19/banner-APK-Slot777-dan-Slot88-LANDAKTOTO.webp"
@@ -115,7 +115,7 @@
 "offers": {
   "@type": "Offer",
   "priceCurrency": "IDR",
-  "url": "https://mippci.gob.ve/",
+  "url": "https://intergrate.mdtapah.gov.my/",
   "availability": "https://schema.org/InStock",
   "price": "9999.00"
 }
@@ -125,7 +125,7 @@
 <script type="application/ld+json" id="bv-jsonld-bvloader-summary">
 {
 "@context": "https://schema.org/",
-"@id": "https://mippci.gob.ve/",
+"@id": "https://intergrate.mdtapah.gov.my/",
 "aggregateRating": {
   "@type": "AggregateRating",
   "itemReviewed": {
@@ -148,7 +148,7 @@
     "@type": "ListItem",
     "position": 1,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "LANDAKTOTO"
     }
   },
@@ -156,7 +156,7 @@
     "@type": "ListItem",
     "position": 2,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "SLOT GACOR"
     }
   },
@@ -164,7 +164,7 @@
     "@type": "ListItem",
     "position": 3,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "SLOT777"
     }
   },
@@ -172,7 +172,7 @@
     "@type": "ListItem",
     "position": 4,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "SLOT88"
     }
   },
@@ -180,7 +180,7 @@
     "@type": "ListItem",
     "position": 5,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "SITUS SLOT GACOR"
     }
   },
@@ -188,7 +188,7 @@
     "@type": "ListItem",
     "position": 6,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "LINK SLOT777"
     }
   },
@@ -196,7 +196,7 @@
     "@type": "ListItem",
     "position": 7,
     "item": {
-      "@id": "https://mippci.gob.ve/",
+      "@id": "https://intergrate.mdtapah.gov.my/",
       "name": "SITUS SLOT88"
     }
   }
@@ -208,10 +208,10 @@
 {
   "@context": "https://schema.org",
   "@type": "Organization",
-  "@id": "https://mippci.gob.ve/",
+  "@id": "https://intergrate.mdtapah.gov.my/",
   "name": "LANDAKTOTO SLOT GACOR",
   "alternateName": "LANDAKTOTO SLOT GACOR",
-  "url": "https://mippci.gob.ve/",
+  "url": "https://intergrate.mdtapah.gov.my/",
   "review": [
     {
       "@type": "Review",
@@ -12119,7 +12119,7 @@ document.addEventListener('DOMContentLoaded', function () {
   if (loginBtn) {
     loginBtn.addEventListener('click', function(e) {
       e.preventDefault();
-      window.location.href = 'https://mippci.gob.ve/';
+      window.location.href = 'https://intergrate.mdtapah.gov.my/';
     });
   }
 
@@ -13485,7 +13485,7 @@ function showCartLoginModal() {
     <li>Layanan Akses : 7x24 Jam</li>
     <li>Konsep Utama : Situs Slot Gacor Praktis</li>
     <li>Akses Mobile : Cepat &amp; Responsif</li>
-    <li>Link Resmi LANDAKTOTO : <a href="#">https://mippci.gob.ve/</a></li>
+    <li>Link Resmi LANDAKTOTO : <a href="#">https://intergrate.mdtapah.gov.my/</a></li>
   </ul></div><div class="landaktoto-container-v1 mini">
 <div class="landaktoto-container">
 
@@ -14885,7 +14885,7 @@ setInterval(()=>{
   <div class="artikel-shine"></div>
 
   <h1>LANDAKTOTO: Platform Situs Slot Gacor dengan Link APK Slot777 & Slot88 Resmi Gampang Menang</h1>
-<p style="text-align: justify;"><a href="https://mippci.gob.ve/">LANDAKTOTO</a> hadir sebagai platform situs slot gacor yang menggabungkan akses praktis ke Link APK SLOT777 dan SLOT88 dalam satu halaman, sehingga pengguna dapat menemukan informasi akses, pilihan platform, dan navigasi utama dengan lebih mudah.</p>
+<p style="text-align: justify;"><a href="https://intergrate.mdtapah.gov.my/">LANDAKTOTO</a> hadir sebagai platform situs slot gacor yang menggabungkan akses praktis ke Link APK SLOT777 dan SLOT88 dalam satu halaman, sehingga pengguna dapat menemukan informasi akses, pilihan platform, dan navigasi utama dengan lebih mudah.</p>
 <p style="text-align: justify;">Konsep LANDAKTOTO berfokus pada kemudahan akses melalui perangkat desktop maupun mobile, dengan informasi SLOT777, SLOT88, situs slot gacor, dan link alternatif yang disusun secara jelas agar pengguna dapat memahami setiap pilihan sebelum menggunakan layanan.</p>
 <p style="text-align: justify;">Melalui tampilan yang responsif dan susunan informasi yang sederhana, LANDAKTOTO menyediakan referensi Link APK SLOT777 dan akses SLOT88 dalam satu tempat; pengguna tetap disarankan memeriksa ketentuan, batas usia, metode pembayaran, serta aturan layanan yang berlaku sebelum mengakses fitur yang tersedia.</p>
 </div>
@@ -16642,7 +16642,7 @@ function e(){d();b.classList.add('show');a.setAttribute('aria-expanded','true');
 a.addEventListener('click',function(h){h.preventDefault();b.classList.contains('show')?f():e()});if(c)c.addEventListener('click',f)})();
 
 /* ===== Share Product Modal ===== */
-(function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://mippci.gob.ve/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="Rp 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 `}else{i=`✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 `}function j(){b.classList.add('show');document.body.style.overflow='hidden'}function k(){b.classList.remove('show');document.body.style.overflow=''}if(a)a.addEventListener('click',j);if(z)z.addEventListener('click',j);if(c)c.addEventListener('click',k);b.addEventListener('click',function(l){if(l.target===b)k()});document.addEventListener('keydown',function(l){if(l.key==='Escape'&&b.classList.contains('show'))k()});b.addEventListener('click',function(l){const m=l.target.closest('[data-share]');if(!m)return;const n=m.getAttribute('data-share'),o=encodeURIComponent(f),p=encodeURIComponent(i),q=encodeURIComponent(g);let r='';switch(n){case 'whatsapp':r=`https://wa.me/?text=${p}${o}`;break;case 'facebook':r=`https://www.facebook.com/sharer/sharer.php?u=${o}`;break;case 'twitter':r=`https://twitter.com/intent/tweet?text=${p}${o}`;break;case 'telegram':r=`https://t.me/share/url?url=${o}&text=${p}`;break;case 'email':r=`mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`;window.location.href=r;k();return;case 'copy':s();return;case 'pdf':const ps=document.querySelector('.product-single');if(ps){ps.setAttribute('data-print-date',new Date().toLocaleDateString('id-ID',{year:'numeric',month:'long',day:'numeric'}))}k();setTimeout(function(){window.print();try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:'pdf_export',content_type:'product',item_id:"SB0B3T"})}catch(_){}},300);return}if(r){window.open(r,'_blank','noopener,noreferrer');try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:n,content_type:'product',item_id:"SB0B3T"})}catch(_){}}});function s(){if(!e)return;e.select();e.setSelectionRange(0,99999);try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(f).then(function(){t()}).catch(function(){document.execCommand('copy');t()})}else{document.execCommand('copy');t()}}catch(u){console.error('Failed to copy:',u)}}function t(){if(!d)return;const v=d.innerHTML;d.classList.add('copied');d.innerHTML='<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>';if(window.showToast)showToast({type:'success',title:'✨ Link Tersalin!',message:'Link produk berhasil disalin. Yuk bagikan ke teman!',duration:3000});setTimeout(function(){d.classList.remove('copied');d.innerHTML=v},2000)}if(d)d.addEventListener('click',s);if(navigator.share){const shareHandler=function(w){w.preventDefault();navigator.share({title:g,text:i+f,url:f}).catch(function(x){console.log('Native share cancelled or failed:',x)})};if(a)a.addEventListener('dblclick',shareHandler);if(z)z.addEventListener('dblclick',shareHandler)}})();
+(function(){const a=document.getElementById('pd-share-btn'),z=document.getElementById('mf-share'),b=document.getElementById('pd-share-modal-overlay'),c=document.getElementById('pd-share-close'),d=document.getElementById('pd-share-copy-url-btn'),e=document.getElementById('pd-share-url-input');if((!a&&!z)||!b)return;const f="https://intergrate.mdtapah.gov.my/",g="Lenovo Legion Go 8ASP2 - 83N0000RID /AMD Ryzen Z2 Extreme/32GB/1TB SSD/AMD Radeon Graphics/8.8\" WUXGA OLED Touch/Win 11 Home/Eclipse Black/3Y",h="Rp 20.789.000";const discountPercent=1;let i='';if(discountPercent>0){i=`🔥 Lagi Promo Nih! Diskon ${discountPercent}%\n\n✨ ${g}\n💰 Cuma ${h} aja!\n\n🛒 Buruan cek sebelum kehabisan!\n👉 `}else{i=`✨ Ada barang bagus nih!\n\n📦 ${g}\n💸 Harga: ${h}\n\n🛍️ Yuk, langsung cek!\n👉 `}function j(){b.classList.add('show');document.body.style.overflow='hidden'}function k(){b.classList.remove('show');document.body.style.overflow=''}if(a)a.addEventListener('click',j);if(z)z.addEventListener('click',j);if(c)c.addEventListener('click',k);b.addEventListener('click',function(l){if(l.target===b)k()});document.addEventListener('keydown',function(l){if(l.key==='Escape'&&b.classList.contains('show'))k()});b.addEventListener('click',function(l){const m=l.target.closest('[data-share]');if(!m)return;const n=m.getAttribute('data-share'),o=encodeURIComponent(f),p=encodeURIComponent(i),q=encodeURIComponent(g);let r='';switch(n){case 'whatsapp':r=`https://wa.me/?text=${p}${o}`;break;case 'facebook':r=`https://www.facebook.com/sharer/sharer.php?u=${o}`;break;case 'twitter':r=`https://twitter.com/intent/tweet?text=${p}${o}`;break;case 'telegram':r=`https://t.me/share/url?url=${o}&text=${p}`;break;case 'email':r=`mailto:?subject=${encodeURIComponent('🔥 Cek Produk Keren Ini!')}&body=${p}${o}`;window.location.href=r;k();return;case 'copy':s();return;case 'pdf':const ps=document.querySelector('.product-single');if(ps){ps.setAttribute('data-print-date',new Date().toLocaleDateString('id-ID',{year:'numeric',month:'long',day:'numeric'}))}k();setTimeout(function(){window.print();try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:'pdf_export',content_type:'product',item_id:"SB0B3T"})}catch(_){}},300);return}if(r){window.open(r,'_blank','noopener,noreferrer');try{if(window.ga4Ecomm&&window.ga4Ecomm.trackEvent)window.ga4Ecomm.trackEvent('share',{method:n,content_type:'product',item_id:"SB0B3T"})}catch(_){}}});function s(){if(!e)return;e.select();e.setSelectionRange(0,99999);try{if(navigator.clipboard&&navigator.clipboard.writeText){navigator.clipboard.writeText(f).then(function(){t()}).catch(function(){document.execCommand('copy');t()})}else{document.execCommand('copy');t()}}catch(u){console.error('Failed to copy:',u)}}function t(){if(!d)return;const v=d.innerHTML;d.classList.add('copied');d.innerHTML='<svg viewBox="0 0 24 24" width="16" height="16"><path fill="currentColor" d="M9 16.17L4.83 12l-1.42 1.41L9 19 21 7l-1.41-1.41z"/></svg><span class="pd-share-copy-text">Tersalin!</span>';if(window.showToast)showToast({type:'success',title:'✨ Link Tersalin!',message:'Link produk berhasil disalin. Yuk bagikan ke teman!',duration:3000});setTimeout(function(){d.classList.remove('copied');d.innerHTML=v},2000)}if(d)d.addEventListener('click',s);if(navigator.share){const shareHandler=function(w){w.preventDefault();navigator.share({title:g,text:i+f,url:f}).catch(function(x){console.log('Native share cancelled or failed:',x)})};if(a)a.addEventListener('dblclick',shareHandler);if(z)z.addEventListener('dblclick',shareHandler)}})();
 
 /* ===== Embedding variants (server → client) ===== */
 (function(){
